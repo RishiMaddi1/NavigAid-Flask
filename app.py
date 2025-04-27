@@ -1,32 +1,33 @@
 from flask import Flask, request, jsonify, Response
-import cloudinary
 import cloudinary.uploader
 import tempfile
 import requests
+import re
+import io
+import pyttsx3
+import os
 
 # Cloudinary configuration
-cloudinary.config(
-    cloud_name="du54acioe",
-    api_key="532718876252765",
-    api_secret="8xIh7tTVV_VsW_996YltNBdEG8Q"
-)
+CLOUDINARY_API_KEY = "532718876252765"
+CLOUDINARY_API_SECRET = "8xIh7tTVV_VsW_996YltNBdEG8Q"
+CLOUDINARY_CLOUD_NAME = "du54acioe"
 
 # Groq API Key
 groq_api_key = "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"
 
-# Flask app
-app = Flask(__name__)
-
-# Upload Image to Cloudinary
+# Upload image to Cloudinary
 def upload_image_to_cloudinary(file_path):
     upload_result = cloudinary.uploader.upload(
         file_path,
+        api_key=CLOUDINARY_API_KEY,
+        api_secret=CLOUDINARY_API_SECRET,
+        cloud_name=CLOUDINARY_CLOUD_NAME,
         public_id="image_as_jpg",
-        fetch_format="jpg"
+        fetch_format="jpg",
     )
     return upload_result["secure_url"]
 
-# Generate image context using Groq Vision
+# Generate context from image using Groq
 def generate_image_context_grok(
     image_url: str,
     model: str = "meta-llama/llama-4-scout-17b-16e-instruct",
@@ -37,6 +38,7 @@ def generate_image_context_grok(
         "Authorization": f"Bearer {groq_api_key}",
         "Content-Type": "application/json",
     }
+
     messages = [
         {
             "role": "user",
@@ -58,6 +60,7 @@ def generate_image_context_grok(
             ],
         }
     ]
+
     payload = {
         "model": model,
         "messages": messages,
@@ -71,12 +74,50 @@ def generate_image_context_grok(
         json=payload,
     )
 
-    resp.raise_for_status()
+    if resp.status_code != 200:
+        print("=== Groq API Error ===")
+        print("Status code:", resp.status_code)
+        print("Body:", resp.text)
+        resp.raise_for_status()
 
     data = resp.json()
-    return data["choices"][0]["message"]["content"].strip()
+    raw_input_str = str(data["choices"][0]["message"]["content"])
 
-# Translate audio to text
+    match = re.search(r"content=\"(.*?)\"", raw_input_str, re.DOTALL)
+    if match:
+        context = match.group(1)
+    else:
+        context = raw_input_str.strip()
+
+    return context
+
+# Answer user question based on context
+def answer_user_question(context, user_question):
+    prompt = (
+        f"Context:\n{context}\n\n"
+        f"Question:\n{user_question}\n\n"
+        "Please provide a conversational answer and be friendly. Do not include any additional commentary, explanations, or headings."
+    )
+    headers = {
+        "Authorization": f"Bearer {groq_api_key}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": "llama-3.3-70b-versatile",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0,
+        "max_completion_tokens": 500,
+    }
+
+    response = requests.post(
+        "https://api.groq.com/openai/v1/chat/completions",
+        headers=headers,
+        json=payload,
+    )
+    response.raise_for_status()
+    return response.json()["choices"][0]["message"]["content"].strip()
+
+# Translate audio to English text
 def translate_audio(
     audio_file_path: str,
     model: str = "whisper-large-v3",
@@ -101,62 +142,41 @@ def translate_audio(
         resp.raise_for_status()
         return resp.text.strip()
 
-# Answer user question based on context
-def answer_user_question(context, user_question):
-    prompt = (
-        f"Context:\n{context}\n\n"
-        f"Question:\n{user_question}\n\n"
-        "Please provide a conversational answer and be friendly. "
-        "Do not include any additional commentary, explanations, or headings."
-    )
-
-    headers = {
-        "Authorization": f"Bearer {groq_api_key}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": "llama-3.3-70b-versatile",
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0,
-        "max_completion_tokens": 500,
-    }
-
-    response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers=headers,
-        json=payload,
-    )
-    response.raise_for_status()
-    return response.json()["choices"][0]["message"]["content"].strip()
-
-# Convert text to speech
+# Text-to-Speech using pyttsx3 (offline)
 def text_to_speech(
     text: str,
-    model: str = "playai-tts",
-    voice: str = "Mitch-PlayAI",
+    model: str = "playai-tts",  # Ignored
+    voice: str = "Mitch-PlayAI", # Ignored
     response_format: str = "mp3",
 ) -> bytes:
-    headers = {
-        "Authorization": f"Bearer {groq_api_key}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": model,
-        "voice": voice,
-        "input": text,
-        "response_format": response_format,
-    }
+    """
+    Converts text to speech using pyttsx3 and returns MP3 bytes.
+    """
+    engine = pyttsx3.init()
+    engine.setProperty('rate', 150)  # Speed
+    engine.setProperty('volume', 1)  # Max volume
 
-    resp = requests.post(
-        "https://api.groq.com/openai/v1/audio/speech",
-        headers=headers,
-        json=payload,
-    )
-    resp.raise_for_status()
+    # Save to temporary WAV file
+    temp_wav = tempfile.NamedTemporaryFile(delete=False, suffix='.wav')
+    temp_wav_path = temp_wav.name
+    temp_wav.close()
+    engine.save_to_file(text, temp_wav_path)
+    engine.runAndWait()
 
-    return resp.content
+    # Convert WAV to MP3 if needed
+    from pydub import AudioSegment  # Requires pip install pydub
+    audio = AudioSegment.from_wav(temp_wav_path)
+    mp3_io = io.BytesIO()
+    audio.export(mp3_io, format="mp3")
+    mp3_io.seek(0)
 
-# ROUTES
+    # Cleanup temp wav
+    os.remove(temp_wav_path)
+
+    return mp3_io.read()
+
+# Flask App
+app = Flask(_name_)
 
 @app.route("/")
 def home():
@@ -193,6 +213,7 @@ def ask_question():
 
     translated_question = translate_audio(audio_path)
     final_answer = answer_user_question(context, translated_question)
+
     mp3_bytes = text_to_speech(
         final_answer,
         model="playai-tts",
@@ -202,5 +223,5 @@ def ask_question():
 
     return Response(mp3_bytes, mimetype="audio/mpeg")
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     app.run(host="0.0.0.0", port=5000, debug=True)
