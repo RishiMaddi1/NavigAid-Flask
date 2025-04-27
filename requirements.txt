@@ -3,3 +3,5 @@ cloudinary
 huggingface_hub
 requests
 gunicorn
+pyttsx3
+pydub
