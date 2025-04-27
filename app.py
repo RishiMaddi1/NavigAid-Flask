@@ -145,8 +145,6 @@ def translate_audio(
 # Text-to-Speech using pyttsx3 (offline)
 def text_to_speech(
     text: str,
-    model: str = "playai-tts",  # Ignored
-    voice: str = "Mitch-PlayAI", # Ignored
     response_format: str = "mp3",
 ) -> bytes:
     """
@@ -214,12 +212,8 @@ def ask_question():
     translated_question = translate_audio(audio_path)
     final_answer = answer_user_question(context, translated_question)
 
-    mp3_bytes = text_to_speech(
-        final_answer,
-        model="playai-tts",
-        voice="Mitch-PlayAI",
-        response_format="mp3"
-    )
+    # Generate MP3 of the answer
+    mp3_bytes = text_to_speech(final_answer)
 
     return Response(mp3_bytes, mimetype="audio/mpeg")
 
