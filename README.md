@@ -46,31 +46,12 @@ Pitch Deck / PPT Link: [Paste Google Slides / PDF link here]
 
 ✅ **Tasks & Bonus Checklist**  
 - All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form (Details in Participant Manual)  
-- All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points) (Details in Participant Manual)  
-- All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points) (Details in Participant Manual)  
 
 🧪 **How to Run the Project**  
+
 **Requirements**:  
 - Android Device (to install APK)  
 - Cloudinary and Groq API keys  
-
-**Local Setup** (for developers):  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-team/project-name
-   ```
-
-2. Install dependencies  
-   ```bash
-   cd backend-directory
-   pip install -r requirements.txt
-   ```
-
-3. Set environment variables for API keys (Cloudinary, Groq).  
-4. Start the backend server  
-   ```bash
-   python app.py
-   ```
 
 **APK Installation**:  
 - Download the APK file: [app-release.apk](https://github.com/your-repo-url)  
