@@ -32,7 +32,7 @@ def generate_image_context_grok(
     groq_api_key: str = "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",
     model: str = "meta-llama/llama-4-scout-17b-16e-instruct",
     temperature: float = 1.0,
-    max_completion_tokens: int = 1024,
+    max_completion_tokens: int = 5000,
 ) -> str:
     """
     Calls Groq Cloud's OpenAI-compatible vision chat endpoint to analyze an image URL.
