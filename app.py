@@ -15,7 +15,7 @@ cloudinary.config(
 groq_api_key = "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"
 
 # Flask app
-app = Flask(_name_)
+app = Flask(__name__)
 
 # Upload Image to Cloudinary
 def upload_image_to_cloudinary(file_path):
@@ -202,5 +202,5 @@ def ask_question():
 
     return Response(mp3_bytes, mimetype="audio/mpeg")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
