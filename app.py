@@ -245,10 +245,15 @@ def ask_question():
     final_answer = answer_user_question(context, translated_question)
 
     # 5) render answer as speech
-    wav_bytes = text_to_speech(final_answer)
+    mp3_bytes = text_to_speech(
+        final_answer,
+        model="playai-tts",
+        voice="Mitch-PlayAI",
+        response_format="mp3"
+    )
 
     # 6) return raw WAV data
-    return Response(wav_bytes, mimetype="audio/wav")
+    return Response(mp3_bytes, mimetype="audio/mpeg")
 
 
 if __name__ == "__main__":
