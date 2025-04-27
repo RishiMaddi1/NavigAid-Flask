@@ -3,7 +3,7 @@
 A multimodal app for image analysis, speech translation, and vision-based QA, powered by Groq and Cloudinary.
 
 📌 **Problem Statement**  
-Problem Statement 7 – Transform the Future of Rural Commerce
+Problem Statement 1 - Weave AI magic with Groq
 
 🎯 **Objective**  
 NavigAid solves the problem of providing vision and speech-based interaction for users to upload images and audio, ask questions, and receive AI-driven answers. The app is especially useful in situations where users have limited text-based interfaces and need a seamless multimodal experience. The target audience includes individuals with visual or auditory impairments, as well as users in rural areas with limited access to advanced tech.
