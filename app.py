@@ -217,7 +217,10 @@ def analyze_image():
     # 3) return the vision context
     return jsonify({"context": context})
 
-
+@app.route("/")
+def home():
+    return "Welcome to NavigAid!"
+    
 @app.route("/ask_question", methods=["POST"])
 def ask_question():
     # 1) get the image context from the client
