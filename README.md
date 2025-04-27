@@ -1,6 +1,4 @@
-Here’s your project description following the provided pattern:
 
-```markdown
 🚀 **NavigAid**  
 A multimodal app for image analysis, speech translation, and vision-based QA, powered by Groq and Cloudinary.
 
