@@ -5,3 +5,4 @@ requests
 gunicorn
 pyttsx3
 pydub
+gTTS
