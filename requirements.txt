@@ -1,0 +1,4 @@
+Flask
+cloudinary
+huggingface_hub
+requests
