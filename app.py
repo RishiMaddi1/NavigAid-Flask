@@ -196,7 +196,7 @@ def text_to_speech(
     return resp.content
 
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 
 @app.route("/analyze_image", methods=["POST"])
@@ -256,5 +256,5 @@ def ask_question():
     return Response(mp3_bytes, mimetype="audio/mpeg")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
