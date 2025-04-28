@@ -1,0 +1,1093 @@
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.lifecycle.ReportFragment
+androidx.camera.camera2.internal.compat.quirk.CrashWhenTakingPhotoWithAutoFlashAEModeQuirk
+androidx.camera.camera2.internal.compat.quirk.CaptureSessionShouldUseMrirQuirk
+androidx.camera.camera2.internal.compat.quirk.AspectRatioLegacyApi21Quirk
+androidx.camera.camera2.internal.compat.quirk.RepeatingStreamConstraintForVideoRecordingQuirk
+io.flutter.plugins.flutter_plugin_android_lifecycle.FlutterAndroidLifecyclePlugin
+androidx.camera.video.internal.compat.quirk.EncoderNotUsePersistentInputSurfaceQuirk
+com.example.navig_aid.MainActivity
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.camera.video.internal.compat.quirk.StretchedVideoResolutionQuirk
+androidx.versionedparcelable.ParcelImpl
+androidx.camera.camera2.internal.compat.quirk.AfRegionFlipHorizontallyQuirk
+androidx.camera.video.internal.compat.quirk.CodecStuckOnFlushQuirk
+androidx.camera.video.internal.compat.quirk.ExtraSupportedQualityQuirk
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+androidx.camera.camera2.internal.compat.quirk.TorchIsClosedAfterImageCapturingQuirk
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.camera.camera2.internal.compat.quirk.AutoFlashUnderExposedQuirk
+androidx.camera.video.internal.compat.quirk.AudioTimestampFramePositionIncorrectQuirk
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.camera.video.internal.compat.quirk.StopCodecAfterSurfaceRemovalCrashMediaServerQuirk
+androidx.camera.core.internal.compat.quirk.IncorrectJpegMetadataQuirk
+androidx.camera.camera2.internal.compat.quirk.JpegHalCorruptImageQuirk
+io.flutter.view.TextureRegistry$ImageTextureEntry
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.camera.camera2.internal.compat.quirk.LegacyCameraOutputConfigNullPointerQuirk
+androidx.camera.camera2.internal.compat.quirk.PreviewStretchWhenVideoCaptureIsBoundQuirk
+io.flutter.plugin.text.ProcessTextPlugin
+androidx.camera.camera2.internal.compat.quirk.ExcludedSupportedSizesQuirk
+androidx.window.extensions.core.util.function.Consumer
+androidx.camera.video.internal.compat.quirk.MediaCodecInfoReportIncorrectInfoQuirk
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureWashedOutImageQuirk
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry
+io.flutter.plugins.GeneratedPluginRegistrant
+androidx.camera.core.internal.compat.quirk.CaptureFailedRetryQuirk
+com.baseflow.permissionhandler.PermissionHandlerPlugin
+androidx.camera.camera2.internal.compat.quirk.ExtraCroppingQuirk
+androidx.camera.camera2.internal.compat.quirk.FlashTooSlowQuirk
+androidx.core.app.CoreComponentFactory
+androidx.camera.camera2.internal.compat.quirk.UseTorchAsFlashQuirk
+androidx.camera.video.internal.compat.quirk.ExtraSupportedResolutionQuirk
+io.flutter.view.AccessibilityViewEmbedder
+androidx.camera.camera2.internal.compat.quirk.ZslDisablerQuirk
+androidx.camera.camera2.Camera2Config$DefaultProvider
+androidx.camera.video.internal.compat.quirk.MediaFormatMustNotUseFrameRateToFindEncoderQuirk
+androidx.annotation.Keep
+dev.fluttercommunity.plus.device_info.DeviceInfoPlusPlugin
+androidx.camera.core.impl.utils.SurfaceUtil
+io.flutter.plugins.camerax.CameraAndroidCameraxPlugin
+io.flutter.plugin.platform.SingleViewPresentation
+androidx.camera.video.internal.compat.quirk.MediaStoreVideoCannotWrite
+androidx.camera.camera2.internal.compat.quirk.PreviewPixelHDRnetQuirk
+androidx.camera.camera2.internal.compat.quirk.TorchFlashRequiredFor3aUpdateQuirk
+io.flutter.view.TextureRegistry$SurfaceProducer
+androidx.core.app.RemoteActionCompat
+androidx.camera.video.internal.compat.quirk.VideoQualityQuirk
+androidx.camera.core.internal.compat.quirk.ImageCaptureRotationOptionQuirk
+androidx.camera.camera2.internal.compat.quirk.CamcorderProfileResolutionQuirk
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFailedForVideoSnapshotQuirk
+androidx.camera.video.internal.compat.quirk.SignalEosOutputBufferNotComeQuirk
+androidx.camera.core.internal.compat.quirk.LowMemoryQuirk
+androidx.camera.core.impl.MetadataHolderService
+androidx.camera.camera2.internal.compat.quirk.CameraNoResponseWhenEnablingFlashQuirk
+com.llfbandit.record.RecordPlugin
+androidx.camera.camera2.internal.compat.quirk.ImageCapturePixelHDRPlusQuirk
+androidx.camera.camera2.internal.compat.quirk.ExtraSupportedSurfaceCombinationsQuirk
+androidx.camera.camera2.internal.compat.quirk.ExtraSupportedOutputSizeQuirk
+androidx.camera.camera2.internal.compat.quirk.Nexus4AndroidLTargetAspectRatioQuirk
+com.benjaminabel.vibration.VibrationPlugin
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+com.tundralabs.fluttertts.FlutterTtsPlugin
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback
+androidx.camera.camera2.internal.compat.quirk.SmallDisplaySizeQuirk
+androidx.window.extensions.core.util.function.Function
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer
+androidx.camera.video.internal.compat.quirk.VideoEncoderSuspendDoesNotIncludeSuspendTimeQuirk
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFailedWhenVideoCaptureIsBoundQuirk
+androidx.camera.camera2.internal.compat.quirk.InvalidVideoProfilesQuirk
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+androidx.profileinstaller.ProfileInstallReceiver
+androidx.core.graphics.drawable.IconCompat
+io.flutter.view.TextureRegistry$GLTextureConsumer
+androidx.camera.camera2.internal.compat.quirk.CaptureSessionOnClosedNotCalledQuirk
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+androidx.camera.core.internal.compat.quirk.OnePixelShiftQuirk
+androidx.camera.camera2.internal.compat.quirk.StillCaptureFlashStopRepeatingQuirk
+io.flutter.view.FlutterCallbackInformation
+androidx.camera.core.internal.compat.quirk.SurfaceProcessingQuirk
+io.flutter.embedding.engine.FlutterJNI
+androidx.camera.camera2.internal.compat.quirk.CaptureIntentPreviewQuirk
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.camera.video.internal.compat.quirk.DeactivateEncoderSurfaceBeforeStopEncoderQuirk
+androidx.camera.core.internal.compat.quirk.SoftwareJpegEncodingPreferredQuirk
+androidx.camera.camera2.internal.compat.quirk.LegacyCameraSurfaceCleanupQuirk
+androidx.lifecycle.DefaultLifecycleObserver
+io.flutter.embedding.engine.FlutterOverlaySurface
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+androidx.camera.camera2.internal.compat.quirk.AeFpsRangeLegacyQuirk
+xyz.luan.audioplayers.AudioplayersPlugin
+io.flutter.view.TextureRegistry$ImageConsumer
+androidx.camera.video.internal.compat.quirk.VideoEncoderCrashQuirk
+androidx.camera.camera2.internal.compat.quirk.ConfigureSurfaceToSecondarySessionFailQuirk
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements
+androidx.camera.camera2.internal.compat.quirk.TemporalNoiseQuirk
+androidx.camera.video.internal.compat.quirk.ExcludeStretchedVideoQualityQuirk
+androidx.camera.video.internal.compat.quirk.NegativeLatLongSavesIncorrectlyQuirk
+androidx.camera.camera2.internal.compat.quirk.TextureViewIsClosedQuirk
+androidx.camera.camera2.internal.compat.quirk.JpegCaptureDownsizingQuirk
+io.flutter.plugins.pathprovider.PathProviderPlugin
+androidx.camera.camera2.internal.compat.quirk.IncorrectCaptureStateQuirk
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+androidx.camera.camera2.internal.compat.quirk.YuvImageOnePixelShiftQuirk
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureWithFlashUnderexposureQuirk
+androidx.camera.core.ImageProcessingUtil
+androidx.camera.video.internal.compat.quirk.CameraUseInconsistentTimebaseQuirk
+androidx.camera.video.internal.compat.quirk.SizeCannotEncodeVideoQuirk
+androidx.camera.camera2.internal.compat.quirk.FlashAvailabilityBufferUnderflowQuirk
+androidx.camera.video.internal.compat.quirk.ReportedVideoQualityNotSupportedQuirk
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback
+androidx.camera.camera2.internal.compat.quirk.Preview3AThreadCrashQuirk
+androidx.camera.core.internal.compat.quirk.LargeJpegImageQuirk
+io.flutter.view.TextureRegistry$SurfaceTextureEntry
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+androidx.camera.camera2.internal.compat.quirk.PreviewOrientationIncorrectQuirk
+androidx.camera.video.internal.compat.quirk.AudioEncoderIgnoresInputTimestampQuirk
+androidx.startup.InitializationProvider
+androidx.camera.camera2.internal.compat.quirk.CaptureSessionStuckQuirk
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.window.extensions.core.util.function.Predicate
+androidx.camera.core.internal.compat.quirk.SurfaceOrderQuirk
+androidx.camera.camera2.internal.compat.quirk.CaptureNoResponseQuirk
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFlashNotFireQuirk
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.camera.camera2.internal.compat.quirk.PreviewDelayWhenVideoCaptureIsBoundQuirk
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFailWithAutoFlashQuirk
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader lastReaderDequeuedFrom
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.HashMap perImageReaders
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.String TAG
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause
+io.flutter.embedding.engine.FlutterJNI: float displayDensity
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean createNewReader
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastDequeueTime
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.ArrayDeque imageReaderQueue
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+io.flutter.embedding.engine.FlutterJNI: float displayHeight
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+kotlinx.coroutines.channels.BufferedChannel: long receivers
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback callback
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastScheduleTime
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: java.lang.String TAG
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean CLEANUP_ON_MEMORY_PRESSURE
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean notifiedDestroy
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+kotlinx.coroutines.flow.StateFlowSlot: java.lang.Object _state
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+kotlinx.coroutines.CancelledContinuation: int _resumed
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedHeight
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage lastDequeuedImage
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image image
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean VERBOSE_LOGS
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int MAX_IMAGES
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean ignoringFence
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastQueueTime
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean ignoringFence
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+io.flutter.embedding.engine.FlutterJNI: float displayWidth
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean newFrameAvailable
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean released
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.Object lock
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+kotlinx.coroutines.CompletedExceptionally: int _handled
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedWidth
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean trimOnMemoryPressure
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean released
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.camera.video.internal.compat.quirk.SignalEosOutputBufferNotComeQuirk: SignalEosOutputBufferNotComeQuirk()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.camera.video.internal.audio.AudioSource$InternalState: androidx.camera.video.internal.audio.AudioSource$InternalState valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: long id()
+androidx.camera.lifecycle.LifecycleCameraRepository$LifecycleCameraRepositoryObserver: void onStop(androidx.lifecycle.LifecycleOwner)
+androidx.camera.video.VideoEncoderSession$VideoEncoderState: androidx.camera.video.VideoEncoderSession$VideoEncoderState[] values()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.camera.core.impl.CameraCaptureMetaData$AwbState: androidx.camera.core.impl.CameraCaptureMetaData$AwbState valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.camera.lifecycle.LifecycleCameraRepository$LifecycleCameraRepositoryObserver: void onDestroy(androidx.lifecycle.LifecycleOwner)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.camera.video.internal.compat.quirk.AudioEncoderIgnoresInputTimestampQuirk: AudioEncoderIgnoresInputTimestampQuirk()
+androidx.camera.camera2.internal.compat.quirk.TextureViewIsClosedQuirk: TextureViewIsClosedQuirk()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+androidx.camera.core.impl.UseCaseConfigFactory$CaptureType: androidx.camera.core.impl.UseCaseConfigFactory$CaptureType valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader33()
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetBottom(android.view.DisplayCutout)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetLeft(android.view.DisplayCutout)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onImage(android.media.ImageReader,android.media.Image)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.camera.core.internal.compat.quirk.SurfaceOrderQuirk: SurfaceOrderQuirk()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+xyz.luan.audioplayers.ReleaseMode: xyz.luan.audioplayers.ReleaseMode[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage dequeueImage()
+androidx.camera.camera2.internal.compat.quirk.PreviewDelayWhenVideoCaptureIsBoundQuirk: PreviewDelayWhenVideoCaptureIsBoundQuirk()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.camera.video.internal.compat.quirk.ReportedVideoQualityNotSupportedQuirk: ReportedVideoQualityNotSupportedQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getActiveReader()
+io.flutter.view.TextureRegistry$SurfaceProducer: android.view.Surface getSurface()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.camera.core.internal.utils.ImageUtil$CodecFailedException$FailureType: androidx.camera.core.internal.utils.ImageUtil$CodecFailedException$FailureType valueOf(java.lang.String)
+io.flutter.plugins.camerax.LensFacing: io.flutter.plugins.camerax.LensFacing valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+androidx.window.extensions.core.util.function.Consumer: void accept(java.lang.Object)
+androidx.camera.lifecycle.LifecycleCamera: void onPause(androidx.lifecycle.LifecycleOwner)
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFailedWhenVideoCaptureIsBoundQuirk: ImageCaptureFailedWhenVideoCaptureIsBoundQuirk()
+androidx.camera.video.internal.compat.quirk.MediaCodecInfoReportIncorrectInfoQuirk: MediaCodecInfoReportIncorrectInfoQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader29()
+androidx.camera.core.impl.CameraCaptureMetaData$AeMode: androidx.camera.core.impl.CameraCaptureMetaData$AeMode valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+androidx.camera.core.impl.utils.executor.SequentialExecutor$WorkerRunningState: androidx.camera.core.impl.utils.executor.SequentialExecutor$WorkerRunningState[] values()
+androidx.camera.core.internal.utils.ImageUtil$CodecFailedException$FailureType: androidx.camera.core.internal.utils.ImageUtil$CodecFailedException$FailureType[] values()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.camera.video.internal.compat.quirk.MediaFormatMustNotUseFrameRateToFindEncoderQuirk: MediaFormatMustNotUseFrameRateToFindEncoderQuirk()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+io.flutter.view.TextureRegistry$SurfaceProducer: void release()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$502(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+androidx.core.app.ActivityCompat$Api23Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+io.flutter.plugin.platform.PlatformViewWrapper: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.camera.camera2.internal.compat.quirk.ExtraSupportedOutputSizeQuirk: ExtraSupportedOutputSizeQuirk()
+androidx.camera.camera2.internal.compat.quirk.InvalidVideoProfilesQuirk: InvalidVideoProfilesQuirk()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.camera.core.impl.utils.ExifData$WhiteBalanceMode: androidx.camera.core.impl.utils.ExifData$WhiteBalanceMode[] values()
+androidx.camera.core.impl.Timebase: androidx.camera.core.impl.Timebase valueOf(java.lang.String)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: int noteProxyOpNoThrow(android.app.AppOpsManager,java.lang.String,java.lang.String)
+androidx.camera.video.StreamInfo$StreamState: androidx.camera.video.StreamInfo$StreamState[] values()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.renderer.FlutterRenderer$ViewportMetrics getViewportMetrics()
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+io.flutter.plugin.platform.PlatformViewWrapper: void setLayoutParams(android.widget.FrameLayout$LayoutParams)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: android.graphics.SurfaceTexture surfaceTexture()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImages()
+androidx.camera.core.impl.CameraCaptureMetaData$FlashState: androidx.camera.core.impl.CameraCaptureMetaData$FlashState[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory[] values()
+io.flutter.plugins.camerax.AspectRatio: io.flutter.plugins.camerax.AspectRatio valueOf(java.lang.String)
+androidx.core.app.ActivityCompat$Api31Impl: boolean isLaunchedFromBubble(android.app.Activity)
+androidx.camera.core.impl.CameraInternal$State: androidx.camera.core.impl.CameraInternal$State valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.core.app.ActivityCompat$Api23Impl: void onSharedElementsReady(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setSize(int,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+xyz.luan.audioplayers.PlayerMode: xyz.luan.audioplayers.PlayerMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.camera.core.impl.CameraCaptureFailure$Reason: androidx.camera.core.impl.CameraCaptureFailure$Reason valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureWithFlashUnderexposureQuirk: ImageCaptureWithFlashUnderexposureQuirk()
+androidx.camera.core.impl.MetadataHolderService: MetadataHolderService()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void scheduleFrame()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getHeight()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.camera.core.impl.CameraCaptureMetaData$AfMode: androidx.camera.core.impl.CameraCaptureMetaData$AfMode[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: int noteProxyOp(android.app.AppOpsManager,java.lang.String,java.lang.String)
+androidx.camera.camera2.internal.compat.quirk.ConfigureSurfaceToSecondarySessionFailQuirk: ConfigureSurfaceToSecondarySessionFailQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void releaseInternal()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.camera.core.impl.UseCaseConfigFactory$CaptureType: androidx.camera.core.impl.UseCaseConfigFactory$CaptureType[] values()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetRight(android.view.DisplayCutout)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.camera.camera2.internal.compat.quirk.ExtraCroppingQuirk: ExtraCroppingQuirk()
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+io.flutter.plugins.camerax.ResolutionStrategyFallbackRule: io.flutter.plugins.camerax.ResolutionStrategyFallbackRule[] values()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+io.flutter.view.TextureRegistry$ImageTextureEntry: void pushImage(android.media.Image)
+io.flutter.plugins.camerax.LiveDataSupportedType: io.flutter.plugins.camerax.LiveDataSupportedType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFailWithAutoFlashQuirk: ImageCaptureFailWithAutoFlashQuirk()
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+androidx.camera.video.Recorder$State: androidx.camera.video.Recorder$State valueOf(java.lang.String)
+androidx.camera.video.VideoEncoderSession$VideoEncoderState: androidx.camera.video.VideoEncoderSession$VideoEncoderState valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void finalize()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+xyz.luan.audioplayers.AudioplayersPlugin: AudioplayersPlugin()
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.extensions.core.util.function.Function: java.lang.Object apply(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.plugins.camerax.CameraStateErrorCode: io.flutter.plugins.camerax.CameraStateErrorCode[] values()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.camera.video.internal.compat.quirk.DeactivateEncoderSurfaceBeforeStopEncoderQuirk: DeactivateEncoderSurfaceBeforeStopEncoderQuirk()
+androidx.camera.camera2.internal.compat.quirk.YuvImageOnePixelShiftQuirk: YuvImageOnePixelShiftQuirk()
+androidx.camera.video.internal.compat.quirk.StopCodecAfterSurfaceRemovalCrashMediaServerQuirk: StopCodecAfterSurfaceRemovalCrashMediaServerQuirk()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.camera.lifecycle.LifecycleCamera: void onResume(androidx.lifecycle.LifecycleOwner)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+io.flutter.view.TextureRegistry$SurfaceProducer: void setSize(int,int)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.camera.video.internal.compat.quirk.NegativeLatLongSavesIncorrectlyQuirk: NegativeLatLongSavesIncorrectlyQuirk()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnFrameConsumedListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary(android.content.Context)
+androidx.camera.video.internal.compat.quirk.EncoderNotUsePersistentInputSurfaceQuirk: EncoderNotUsePersistentInputSurfaceQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void waitOnFence(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Rect,java.util.List)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void markDirty()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+io.flutter.plugins.camerax.LensFacing: io.flutter.plugins.camerax.LensFacing[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.camera.video.internal.encoder.EncoderImpl$InternalState: androidx.camera.video.internal.encoder.EncoderImpl$InternalState valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+androidx.camera.core.impl.CameraCaptureMetaData$AeMode: androidx.camera.core.impl.CameraCaptureMetaData$AeMode[] values()
+androidx.camera.camera2.internal.compat.quirk.Nexus4AndroidLTargetAspectRatioQuirk: Nexus4AndroidLTargetAspectRatioQuirk()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void lambda$dequeueImage$0()
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+xyz.luan.audioplayers.PlayerMode: xyz.luan.audioplayers.PlayerMode[] values()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnFrameConsumedListener(io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+io.flutter.plugins.camerax.MeteringMode: io.flutter.plugins.camerax.MeteringMode[] values()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.camera.video.internal.compat.quirk.StretchedVideoResolutionQuirk: StretchedVideoResolutionQuirk()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+io.flutter.plugins.flutter_plugin_android_lifecycle.FlutterAndroidLifecyclePlugin: FlutterAndroidLifecyclePlugin()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getHeight()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+androidx.camera.video.internal.compat.quirk.ExtraSupportedResolutionQuirk: ExtraSupportedResolutionQuirk()
+androidx.camera.camera2.internal.CaptureSession$State: androidx.camera.camera2.internal.CaptureSession$State valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void maybeWaitOnFence(android.media.Image)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$800(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+androidx.camera.camera2.internal.compat.quirk.CameraNoResponseWhenEnablingFlashQuirk: CameraNoResponseWhenEnablingFlashQuirk()
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.camera.core.processing.util.GLUtils$InputFormat: androidx.camera.core.processing.util.GLUtils$InputFormat valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+androidx.camera.camera2.internal.compat.quirk.LegacyCameraOutputConfigNullPointerQuirk: LegacyCameraOutputConfigNullPointerQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims()
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+androidx.camera.core.ImageProcessingUtil: int nativeConvertAndroid420ToBitmap(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,int,android.graphics.Bitmap,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.camera.core.UseCase$State: androidx.camera.core.UseCase$State valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+androidx.camera.core.CameraX$InternalInitState: androidx.camera.core.CameraX$InternalInitState[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void pushImage(android.media.Image)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+io.flutter.plugins.camerax.CameraXFlashMode: io.flutter.plugins.camerax.CameraXFlashMode[] values()
+androidx.core.graphics.Insets$Api29Impl: android.graphics.Insets of(int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateDisplayMetrics(long)
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.camera.core.internal.compat.quirk.CaptureFailedRetryQuirk: CaptureFailedRetryQuirk()
+androidx.camera.core.impl.SurfaceConfig$ConfigType: androidx.camera.core.impl.SurfaceConfig$ConfigType[] values()
+androidx.camera.camera2.internal.compat.quirk.LegacyCameraSurfaceCleanupQuirk: LegacyCameraSurfaceCleanupQuirk()
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+com.tundralabs.fluttertts.FlutterTtsPlugin: FlutterTtsPlugin()
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType[] values()
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+io.flutter.view.TextureRegistry$GLTextureConsumer: android.graphics.SurfaceTexture getSurfaceTexture()
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean shouldUpdate()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFailedForVideoSnapshotQuirk: ImageCaptureFailedForVideoSnapshotQuirk()
+androidx.camera.camera2.internal.compat.quirk.FlashAvailabilityBufferUnderflowQuirk: FlashAvailabilityBufferUnderflowQuirk()
+androidx.camera.video.internal.compat.quirk.ExcludeStretchedVideoQualityQuirk: ExcludeStretchedVideoQualityQuirk()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetWidth()
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$302(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer,boolean)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+androidx.camera.camera2.internal.compat.quirk.CaptureSessionOnClosedNotCalledQuirk: CaptureSessionOnClosedNotCalledQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: FlutterRenderer$ImageTextureRegistryEntry(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+androidx.camera.camera2.internal.compat.quirk.PreviewStretchWhenVideoCaptureIsBoundQuirk: PreviewStretchWhenVideoCaptureIsBoundQuirk()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+io.flutter.embedding.engine.FlutterJNI: float getScaledFontSize(float,int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.camera.camera2.Camera2Config$DefaultProvider: androidx.camera.core.CameraXConfig getCameraXConfig()
+androidx.core.app.ActivityCompat$Api32Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+androidx.camera.video.Recorder$AudioState: androidx.camera.video.Recorder$AudioState valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureFlashNotFireQuirk: ImageCaptureFlashNotFireQuirk()
+androidx.camera.camera2.internal.compat.quirk.SmallDisplaySizeQuirk: SmallDisplaySizeQuirk()
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader access$700(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.camera.camera2.internal.compat.quirk.CaptureSessionStuckQuirk: CaptureSessionStuckQuirk()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void release()
+androidx.camera.lifecycle.LifecycleCamera: void onDestroy(androidx.lifecycle.LifecycleOwner)
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+io.flutter.plugins.camerax.AspectRatioStrategyFallbackRule: io.flutter.plugins.camerax.AspectRatioStrategyFallbackRule valueOf(java.lang.String)
+androidx.camera.camera2.internal.ProcessingCaptureSession$ProcessorState: androidx.camera.camera2.internal.ProcessingCaptureSession$ProcessorState valueOf(java.lang.String)
+androidx.camera.core.internal.compat.quirk.ImageCaptureRotationOptionQuirk: ImageCaptureRotationOptionQuirk()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void waitOnFence(android.media.Image)
+androidx.window.layout.util.ContextCompatHelperApi30: androidx.core.view.WindowInsetsCompat currentWindowInsets(android.content.Context)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+io.flutter.view.TextureRegistry$ImageConsumer: android.media.Image acquireLatestImage()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.camera.camera2.internal.compat.quirk.PreviewOrientationIncorrectQuirk: PreviewOrientationIncorrectQuirk()
+androidx.camera.core.impl.CameraCaptureMetaData$AfMode: androidx.camera.core.impl.CameraCaptureMetaData$AfMode valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.core.app.AppOpsManagerCompat$Api29Impl: android.app.AppOpsManager getSystemService(android.content.Context)
+androidx.camera.core.impl.CameraCaptureMetaData$FlashState: androidx.camera.core.impl.CameraCaptureMetaData$FlashState valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+androidx.camera.core.CameraState$Type: androidx.camera.core.CameraState$Type[] values()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnTrimMemoryListener(io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: java.lang.String permissionToOp(java.lang.String)
+androidx.camera.core.ImageProcessingUtil$Result: androidx.camera.core.ImageProcessingUtil$Result[] values()
+com.baseflow.permissionhandler.PermissionHandlerPlugin: PermissionHandlerPlugin()
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.camera.camera2.internal.Camera2CameraImpl$InternalState: androidx.camera.camera2.internal.Camera2CameraImpl$InternalState valueOf(java.lang.String)
+androidx.camera.camera2.internal.compat.quirk.TorchIsClosedAfterImageCapturingQuirk: TorchIsClosedAfterImageCapturingQuirk()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean handlesCropAndRotation()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.camera.video.internal.compat.quirk.AudioTimestampFramePositionIncorrectQuirk: AudioTimestampFramePositionIncorrectQuirk()
+androidx.camera.camera2.internal.compat.quirk.AfRegionFlipHorizontallyQuirk: AfRegionFlipHorizontallyQuirk()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.camera.camera2.internal.compat.quirk.ExtraSupportedSurfaceCombinationsQuirk: ExtraSupportedSurfaceCombinationsQuirk()
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void disableFenceForTest()
+androidx.camera.core.impl.utils.executor.SequentialExecutor$WorkerRunningState: androidx.camera.core.impl.utils.executor.SequentialExecutor$WorkerRunningState valueOf(java.lang.String)
+androidx.camera.core.ImageProcessingUtil: int nativeConvertAndroid420ToABGR(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,int,android.view.Surface,java.nio.ByteBuffer,int,int,int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: int checkOpNoThrow(android.app.AppOpsManager,java.lang.String,int,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+androidx.camera.camera2.internal.compat.quirk.StillCaptureFlashStopRepeatingQuirk: StillCaptureFlashStopRepeatingQuirk()
+androidx.camera.core.impl.CameraCaptureFailure$Reason: androidx.camera.core.impl.CameraCaptureFailure$Reason[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$102(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.camera.lifecycle.LifecycleCamera: void onStop(androidx.lifecycle.LifecycleOwner)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$300(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+xyz.luan.audioplayers.ReleaseMode: xyz.luan.audioplayers.ReleaseMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.Image acquireLatestImage()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+androidx.camera.camera2.internal.compat.quirk.ExcludedSupportedSizesQuirk: ExcludedSupportedSizesQuirk()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+androidx.camera.camera2.internal.compat.quirk.ZslDisablerQuirk: ZslDisablerQuirk()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+androidx.camera.core.CameraX$InternalInitState: androidx.camera.core.CameraX$InternalInitState valueOf(java.lang.String)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void cleanup()
+androidx.camera.camera2.internal.compat.quirk.Preview3AThreadCrashQuirk: Preview3AThreadCrashQuirk()
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,androidx.core.view.autofill.AutofillIdCompat)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState valueOf(java.lang.String)
+io.flutter.plugins.camerax.AspectRatio: io.flutter.plugins.camerax.AspectRatio[] values()
+androidx.camera.video.Recorder$AudioState: androidx.camera.video.Recorder$AudioState[] values()
+androidx.camera.core.impl.CameraCaptureMetaData$AwbMode: androidx.camera.core.impl.CameraCaptureMetaData$AwbMode[] values()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.camera.core.UseCase$State: androidx.camera.core.UseCase$State[] values()
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.camera.camera2.internal.compat.quirk.FlashTooSlowQuirk: FlashTooSlowQuirk()
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.camera.lifecycle.LifecycleCameraRepository$LifecycleCameraRepositoryObserver: void onStart(androidx.lifecycle.LifecycleOwner)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetHeight()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+androidx.camera.video.internal.BufferProvider$State: androidx.camera.video.internal.BufferProvider$State[] values()
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+io.flutter.plugins.camerax.CameraStateType: io.flutter.plugins.camerax.CameraStateType[] values()
+io.flutter.plugin.platform.PlatformViewWrapper: void setTouchProcessor(io.flutter.embedding.android.AndroidTouchProcessor)
+io.flutter.view.TextureRegistry$SurfaceProducer: boolean handlesCropAndRotation()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: java.lang.String getOpPackageName(android.content.Context)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.plugins.camerax.MeteringMode: io.flutter.plugins.camerax.MeteringMode valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+io.flutter.embedding.engine.FlutterJNI: void scheduleFrame()
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+io.flutter.plugin.platform.PlatformViewWrapper: android.view.ViewTreeObserver$OnGlobalFocusChangeListener getActiveFocusListener()
+androidx.camera.camera2.internal.compat.quirk.PreviewPixelHDRnetQuirk: PreviewPixelHDRnetQuirk()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.camera.core.internal.compat.quirk.LargeJpegImageQuirk: LargeJpegImageQuirk()
+androidx.camera.camera2.internal.compat.quirk.JpegHalCorruptImageQuirk: JpegHalCorruptImageQuirk()
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode[] values()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.camera.core.impl.Timebase: androidx.camera.core.impl.Timebase[] values()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: java.util.List getBoundingRects(android.view.DisplayCutout)
+androidx.camera.camera2.internal.compat.quirk.IncorrectCaptureStateQuirk: IncorrectCaptureStateQuirk()
+io.flutter.plugins.camerax.AspectRatioStrategyFallbackRule: io.flutter.plugins.camerax.AspectRatioStrategyFallbackRule[] values()
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnTrimMemoryListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+androidx.camera.core.impl.utils.SurfaceUtil: int[] nativeGetSurfaceInfo(android.view.Surface)
+androidx.camera.core.ImageProcessingUtil$Result: androidx.camera.core.ImageProcessingUtil$Result valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: void scheduleFrame()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+androidx.camera.camera2.internal.compat.quirk.ImageCapturePixelHDRPlusQuirk: ImageCapturePixelHDRPlusQuirk()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+androidx.camera.camera2.internal.compat.quirk.JpegCaptureDownsizingQuirk: JpegCaptureDownsizingQuirk()
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+io.flutter.plugins.camerax.VideoQuality: io.flutter.plugins.camerax.VideoQuality valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+io.flutter.plugins.camerax.VideoQuality: io.flutter.plugins.camerax.VideoQuality[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+io.flutter.plugins.camerax.ResolutionStrategyFallbackRule: io.flutter.plugins.camerax.ResolutionStrategyFallbackRule valueOf(java.lang.String)
+io.flutter.plugins.camerax.LiveDataSupportedType: io.flutter.plugins.camerax.LiveDataSupportedType[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+kotlin.random.Random: Random()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.camera.core.impl.Config$OptionPriority: androidx.camera.core.impl.Config$OptionPriority valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+androidx.camera.core.impl.CameraCaptureMetaData$AwbState: androidx.camera.core.impl.CameraCaptureMetaData$AwbState[] values()
+androidx.camera.core.impl.SurfaceConfig$ConfigSize: androidx.camera.core.impl.SurfaceConfig$ConfigSize[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void pruneImageReaderQueue()
+androidx.camera.video.internal.compat.quirk.VideoEncoderCrashQuirk: VideoEncoderCrashQuirk()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.camera.video.VideoOutput$SourceState: androidx.camera.video.VideoOutput$SourceState valueOf(java.lang.String)
+androidx.camera.camera2.internal.compat.quirk.ImageCaptureWashedOutImageQuirk: ImageCaptureWashedOutImageQuirk()
+androidx.camera.core.impl.SessionConfig$SessionError: androidx.camera.core.impl.SessionConfig$SessionError[] values()
+androidx.core.app.NotificationManagerCompat$Api24Impl: boolean areNotificationsEnabled(android.app.NotificationManager)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+androidx.camera.camera2.internal.compat.quirk.TemporalNoiseQuirk: TemporalNoiseQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void maybeWaitOnFence(android.media.Image)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void release()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+androidx.camera.camera2.internal.compat.quirk.CaptureNoResponseQuirk: CaptureNoResponseQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onTrimMemory(int)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+androidx.camera.video.internal.audio.AudioSource$InternalState: androidx.camera.video.internal.audio.AudioSource$InternalState[] values()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+io.flutter.embedding.android.FlutterView: void setDelegate(io.flutter.embedding.android.FlutterViewDelegate)
+androidx.camera.camera2.internal.compat.quirk.AspectRatioLegacyApi21Quirk: AspectRatioLegacyApi21Quirk()
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeaturesInNative(int)
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.camera.video.internal.compat.quirk.ExtraSupportedQualityQuirk: ExtraSupportedQualityQuirk()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getOrCreatePerImageReader(android.media.ImageReader)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+io.flutter.plugins.pathprovider.PathProviderPlugin: PathProviderPlugin()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback access$200(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: java.lang.Object getSystemService(android.content.Context,java.lang.Class)
+androidx.camera.camera2.internal.CaptureSession$State: androidx.camera.camera2.internal.CaptureSession$State[] values()
+androidx.camera.core.impl.utils.ExifData$WhiteBalanceMode: androidx.camera.core.impl.utils.ExifData$WhiteBalanceMode valueOf(java.lang.String)
+io.flutter.plugins.camerax.InfoSupportedHardwareLevel: io.flutter.plugins.camerax.InfoSupportedHardwareLevel[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+com.example.navig_aid.MainActivity: MainActivity()
+androidx.camera.core.impl.CameraCaptureMetaData$AfState: androidx.camera.core.impl.CameraCaptureMetaData$AfState valueOf(java.lang.String)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+io.flutter.plugins.camerax.CameraStateErrorCode: io.flutter.plugins.camerax.CameraStateErrorCode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterImageTexture(long,long,java.lang.ref.WeakReference)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+androidx.camera.core.impl.CameraCaptureMetaData$AwbMode: androidx.camera.core.impl.CameraCaptureMetaData$AwbMode valueOf(java.lang.String)
+androidx.window.extensions.core.util.function.Predicate: boolean test(java.lang.Object)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetTop(android.view.DisplayCutout)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.plugins.camerax.CameraStateType: io.flutter.plugins.camerax.CameraStateType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState[] values()
+androidx.camera.video.internal.BufferProvider$State: androidx.camera.video.internal.BufferProvider$State valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+androidx.camera.core.impl.SurfaceConfig$ConfigType: androidx.camera.core.impl.SurfaceConfig$ConfigType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image acquireLatestImage()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: double deltaMillis(long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.view.Surface getSurface()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImageReaders()
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.camera.core.impl.Config$OptionPriority: androidx.camera.core.impl.Config$OptionPriority[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: FlutterRenderer$ImageReaderSurfaceProducer(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getWidth()
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+com.llfbandit.record.RecordPlugin: RecordPlugin()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.camera.core.internal.compat.quirk.LowMemoryQuirk: LowMemoryQuirk()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.camera.camera2.internal.compat.quirk.CrashWhenTakingPhotoWithAutoFlashAEModeQuirk: CrashWhenTakingPhotoWithAutoFlashAEModeQuirk()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+androidx.startup.InitializationProvider: InitializationProvider()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+androidx.camera.core.impl.SurfaceConfig$ConfigSize: androidx.camera.core.impl.SurfaceConfig$ConfigSize valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.camera.camera2.Camera2Config$DefaultProvider: Camera2Config$DefaultProvider()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+androidx.camera.core.ImageProcessingUtil: int nativeShiftPixel(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,int,int,int,int,int,int)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void release()
+io.flutter.view.TextureRegistry$SurfaceProducer: int getWidth()
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.camera.video.StreamInfo$StreamState: androidx.camera.video.StreamInfo$StreamState valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+io.flutter.plugins.camerax.CameraAndroidCameraxPlugin: CameraAndroidCameraxPlugin()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.camera.video.VideoOutput$SourceState: androidx.camera.video.VideoOutput$SourceState[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.camera.core.CameraState$Type: androidx.camera.core.CameraState$Type valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+com.llfbandit.record.record.RecordState: com.llfbandit.record.record.RecordState[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.camera.video.internal.compat.quirk.CameraUseInconsistentTimebaseQuirk: CameraUseInconsistentTimebaseQuirk()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader()
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeScheduleFrame(long)
+androidx.camera.camera2.internal.ProcessingCaptureSession$ProcessorState: androidx.camera.camera2.internal.ProcessingCaptureSession$ProcessorState[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+dev.fluttercommunity.plus.device_info.DeviceInfoPlusPlugin: DeviceInfoPlusPlugin()
+androidx.camera.video.internal.compat.quirk.MediaStoreVideoCannotWrite: MediaStoreVideoCannotWrite()
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.camera.video.internal.compat.quirk.CodecStuckOnFlushQuirk: CodecStuckOnFlushQuirk()
+com.benjaminabel.vibration.VibrationPlugin: VibrationPlugin()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.camera.core.impl.SessionConfig$SessionError: androidx.camera.core.impl.SessionConfig$SessionError valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+io.flutter.view.TextureRegistry$ImageTextureEntry: long id()
+io.flutter.plugins.camerax.InfoSupportedHardwareLevel: io.flutter.plugins.camerax.InfoSupportedHardwareLevel valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void endRearDisplaySession()
+androidx.camera.core.internal.compat.quirk.IncorrectJpegMetadataQuirk: IncorrectJpegMetadataQuirk()
+androidx.camera.core.impl.CameraCaptureMetaData$AeState: androidx.camera.core.impl.CameraCaptureMetaData$AeState[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.camera.core.ImageProcessingUtil: int nativeCopyBetweenByteBufferAndBitmap(android.graphics.Bitmap,java.nio.ByteBuffer,int,int,int,int,boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+androidx.core.app.ActivityCompat$Api31Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+androidx.camera.core.processing.util.GLUtils$InputFormat: androidx.camera.core.processing.util.GLUtils$InputFormat[] values()
+androidx.camera.video.internal.compat.quirk.VideoEncoderSuspendDoesNotIncludeSuspendTimeQuirk: VideoEncoderSuspendDoesNotIncludeSuspendTimeQuirk()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+kotlin.collections.AbstractList: AbstractList()
+androidx.camera.video.Recorder$State: androidx.camera.video.Recorder$State[] values()
+androidx.camera.core.impl.CameraInternal$State: androidx.camera.core.impl.CameraInternal$State[] values()
+androidx.camera.video.internal.compat.quirk.SizeCannotEncodeVideoQuirk: SizeCannotEncodeVideoQuirk()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabledInNative(boolean)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.llfbandit.record.record.RecordState: com.llfbandit.record.record.RecordState valueOf(java.lang.String)
+androidx.core.app.NotificationManagerCompat$Api24Impl: int getImportance(android.app.NotificationManager)
+androidx.camera.camera2.internal.Camera2CameraImpl$InternalState: androidx.camera.camera2.internal.Camera2CameraImpl$InternalState[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+io.flutter.plugins.camerax.CameraXFlashMode: io.flutter.plugins.camerax.CameraXFlashMode valueOf(java.lang.String)
+androidx.camera.core.impl.CameraCaptureMetaData$AfState: androidx.camera.core.impl.CameraCaptureMetaData$AfState[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.camera.camera2.internal.compat.quirk.RepeatingStreamConstraintForVideoRecordingQuirk: RepeatingStreamConstraintForVideoRecordingQuirk()
+androidx.core.app.ActivityCompat$Api23Impl: void requestPermissions(android.app.Activity,java.lang.String[],int)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.camera.core.ImageProcessingUtil: int nativeWriteJpegToSurface(byte[],android.view.Surface)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void registerImageTexture(long,io.flutter.view.TextureRegistry$ImageConsumer)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.camera.core.impl.CameraCaptureMetaData$AeState: androidx.camera.core.impl.CameraCaptureMetaData$AeState valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+androidx.camera.lifecycle.LifecycleCamera: void onStart(androidx.lifecycle.LifecycleOwner)
+androidx.camera.core.ImageProcessingUtil: int nativeRotateYUV(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,java.nio.ByteBuffer,int,int,java.nio.ByteBuffer,int,int,java.nio.ByteBuffer,int,int,java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer,int,int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$0(long,android.graphics.ImageDecoder,android.graphics.ImageDecoder$ImageInfo,android.graphics.ImageDecoder$Source)
+io.flutter.embedding.engine.FlutterJNI: void updateDisplayMetrics(int,float,float,float)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View)
+androidx.camera.video.internal.encoder.EncoderImpl$InternalState: androidx.camera.video.internal.encoder.EncoderImpl$InternalState[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: long id()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void finalize()
+androidx.camera.camera2.internal.compat.quirk.CaptureSessionShouldUseMrirQuirk: CaptureSessionShouldUseMrirQuirk()
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+io.flutter.view.TextureRegistry$ImageTextureEntry: void release()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()

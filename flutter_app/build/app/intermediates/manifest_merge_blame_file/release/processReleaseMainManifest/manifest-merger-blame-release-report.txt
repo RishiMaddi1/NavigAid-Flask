@@ -1,0 +1,229 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.navig_aid"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:2:5-64
+11-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:2:22-62
+12
+13    <!-- audio recording -->
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:5:5-70
+14-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:5:22-68
+15
+16    <!-- network calls -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:8:5-66
+17-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:8:22-64
+18
+19    <!-- optional: if you ever target API ≤28 and write to external storage -->
+20    <uses-permission
+20-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:11:5-12:50
+21        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+21-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:11:22-78
+22        android:maxSdkVersion="28" />
+22-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:12:22-48
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:13:5-79
+23-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:13:22-77
+24    <!--
+25         Required to query activities that can process text, see:
+26         https://developer.android.com/training/package-visibility and
+27         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+28
+29         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+30    -->
+31    <queries>
+31-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:51:5-56:15
+32        <intent>
+32-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:52:9-55:18
+33            <action android:name="android.intent.action.PROCESS_TEXT" />
+33-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:53:13-72
+33-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:53:21-70
+34
+35            <data android:mimeType="text/plain" />
+35-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:54:13-50
+35-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:54:19-48
+36        </intent>
+37    </queries>
+38
+39    <uses-feature android:name="android.hardware.camera.any" />
+39-->[:camera_android_camerax] C:\Users\maddi\StudioProjects\navig_aid\build\camera_android_camerax\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-64
+39-->[:camera_android_camerax] C:\Users\maddi\StudioProjects\navig_aid\build\camera_android_camerax\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:19-61
+40
+41    <uses-permission android:name="android.permission.VIBRATE" />
+41-->[:vibration] C:\Users\maddi\StudioProjects\navig_aid\build\vibration\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-66
+41-->[:vibration] C:\Users\maddi\StudioProjects\navig_aid\build\vibration\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-63
+42
+43    <permission
+43-->[androidx.core:core:1.13.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+44        android:name="com.example.navig_aid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+44-->[androidx.core:core:1.13.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+45        android:protectionLevel="signature" />
+45-->[androidx.core:core:1.13.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+46
+47    <uses-permission android:name="com.example.navig_aid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+47-->[androidx.core:core:1.13.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+47-->[androidx.core:core:1.13.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+48
+49    <application
+50        android:name="android.app.Application"
+50-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:16:9-42
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.13.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+52        android:extractNativeLibs="false"
+53        android:icon="@mipmap/ic_launcher"
+53-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:17:9-43
+54        android:label="navig_aid" >
+54-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:15:9-34
+55        <activity
+55-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:18:9-39:20
+56            android:name="com.example.navig_aid.MainActivity"
+56-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:19:13-41
+57            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+57-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:24:13-163
+58            android:exported="true"
+58-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:20:13-36
+59            android:hardwareAccelerated="true"
+59-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:25:13-47
+60            android:launchMode="singleTop"
+60-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:21:13-43
+61            android:taskAffinity=""
+61-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:22:13-36
+62            android:theme="@style/LaunchTheme"
+62-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:23:13-47
+63            android:windowSoftInputMode="adjustResize" >
+63-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:26:13-55
+64
+65            <!--
+66                 Specifies an Android theme to apply to this Activity as soon as
+67                 the Android process has started. This theme is visible to the user
+68                 while the Flutter UI initializes. After that, this theme continues
+69                 to determine the Window background behind the Flutter UI.
+70            -->
+71            <meta-data
+71-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:31:13-34:17
+72                android:name="io.flutter.embedding.android.NormalTheme"
+72-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:32:15-70
+73                android:resource="@style/NormalTheme" />
+73-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:33:15-52
+74
+75            <intent-filter>
+75-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:35:13-38:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:36:17-68
+76-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:36:25-66
+77
+78                <category android:name="android.intent.category.LAUNCHER" />
+78-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:37:17-76
+78-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:37:27-74
+79            </intent-filter>
+80        </activity>
+81        <!--
+82             Don't delete the meta-data below.
+83             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+84        -->
+85        <meta-data
+85-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:42:9-44:33
+86            android:name="flutterEmbedding"
+86-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:43:13-44
+87            android:value="2" />
+87-->C:\Users\maddi\StudioProjects\navig_aid\android\app\src\main\AndroidManifest.xml:44:13-30
+88
+89        <service
+89-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:24:9-33:19
+90            android:name="androidx.camera.core.impl.MetadataHolderService"
+90-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:25:13-75
+91            android:enabled="false"
+91-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:26:13-36
+92            android:exported="false" >
+92-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:27:13-37
+93            <meta-data
+93-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:30:13-32:89
+94                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+94-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:31:17-103
+95                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+95-->[androidx.camera:camera-camera2:1.4.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\75157b45803b32360f0113fb9e3d6360\transformed\jetified-camera-camera2-1.4.1\AndroidManifest.xml:32:17-86
+96        </service>
+97
+98        <uses-library
+98-->[androidx.window:window:1.2.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+99            android:name="androidx.window.extensions"
+99-->[androidx.window:window:1.2.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+100            android:required="false" />
+100-->[androidx.window:window:1.2.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+101        <uses-library
+101-->[androidx.window:window:1.2.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+102            android:name="androidx.window.sidecar"
+102-->[androidx.window:window:1.2.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+103            android:required="false" />
+103-->[androidx.window:window:1.2.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+104
+105        <provider
+105-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+106            android:name="androidx.startup.InitializationProvider"
+106-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+107            android:authorities="com.example.navig_aid.androidx-startup"
+107-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+108            android:exported="false" >
+108-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+109            <meta-data
+109-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+110                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+110-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+111                android:value="androidx.startup" />
+111-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\maddi\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+112            <meta-data
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+113                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+114                android:value="androidx.startup" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+115        </provider>
+116
+117        <receiver
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+118            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+119            android:directBootAware="false"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+120            android:enabled="true"
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+121            android:exported="true"
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+122            android:permission="android.permission.DUMP" >
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+124                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+125            </intent-filter>
+126            <intent-filter>
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+127                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+128            </intent-filter>
+129            <intent-filter>
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+130                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+131            </intent-filter>
+132            <intent-filter>
+132-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+133                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\maddi\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+134            </intent-filter>
+135        </receiver>
+136    </application>
+137
+138</manifest>

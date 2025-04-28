@@ -1,0 +1,2760 @@
+Marking string:androidx_startup:2131427328 reachable: referenced from C:\Users\maddi\StudioProjects\navig_aid\build\app\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+cancel
+android.settings.MANAGE_APP_ALL_FILES...
+CX:getCameraInfo
+DISMISS
+dev.flutter.pigeon.camera_android_cam...
+app_flutter
+java.lang.Integer
+BrightnessValue
+PICTURES
+2300
+SDR
+globalMethodHandler
+GeneratedPluginsRegister
+java.lang.CharSequence
+devices
+STOP
+camerax.core.imageCapture.flashType
+setSilence
+rmx3511
+dev.flutter.pigeon.camera_android_cam...
+PermissionHandler.AppSettingsManager
+uTransMatrix
+androidx.camera.core.quirks.DEFAULT_Q...
+Orientation
+click
+0
+1
+AspectFrame
+ImageAnalysisAnalyzer
+kotlinx.coroutines.DefaultExecutor
+mime_type
+left
+%02d:%02d:%02d.%03d
+registerWith
+ERROR_ENCODER
+SystemSoundType.alert
+S_RESUMING_BY_RCV
+registrar
+E
+ImageLength
+K
+M
+N
+HONOR
+S
+SystemUiMode.immersiveSticky
+T
+flutter/platform_views
+EncoderProfilesProxyCompat
+W
+TextCapitalization.words
+EXTRA_BENCHMARK_OPERATION
+_
+resume
+SERIAL
+a
+b
+audio/none
+ConvergenceUtils
+SUCCESS
+c
+d
+e
+f
+destroy_engine_with_activity
+g
+truncated
+kotlin.String
+RESUMING_BY_EB
+triggerAePrecapture
+sidecarDeviceState
+o
+dev.flutter.pigeon.camera_android_cam...
+UNSPECIFIED
+camerax.core.imageOutput.customOrdere...
+SUSPEND
+java.lang.Module
+HARDWARE
+x
+appContext
+setPitch
+recorderStateStreamHandler
+PASSIVE_NOT_FOCUSED
+SystemUiMode.edgeToEdge
+CLOSEST_LOWER
+ZOOM_STATE
+ColorSpace
+displayFeature.rect
+getLanguages
+mimeType
+CONFIGURING
+isTagEnabled
+emailAddress
+startIndex
+PRODUCT
+camerax.core.useCase.captureConfigUnp...
+bufferEndSegment
+Camera2EncoderProfilesProvider
+glGenFramebuffers
+LONG_PRESS
+BRAND
+$arguments
+DateTimeDigitized
+ERROR_CAMERA_DEVICE
+flutter/keyevent
+success
+State
+AppLifecycleState.
+RequestMonitor
+SystemChrome.setSystemUIOverlayStyle
+addedDevices
+addWindowLayoutInfoListener
+enable_state_restoration
+COMPLETING_WAITING_CHILDREN
+RESULT_BASELINE_PROFILE_NOT_FOUND
+_invoked
+SCG26
+SCG25
+locale
+STREAM_CONFIG
+android.speech.tts.TextToSpeech$Conne...
+RESULT_DELETE_SKIP_FILE_SUCCESS
+heroqltevzw
+SDK_INT
+samsung
+KeyEmbedderResponder
+iterator.baseContext
+pcm16bits
+soundPoolManager
+android.permission.WRITE_CONTACTS
+IMAGE_CAPTURE
+kotlinx.coroutines.main.delay
+_delayed
+camerax.core.useCase.previewStabiliza...
+android.permission.RECEIVE_SMS
+ERROR_SOURCE_INACTIVE
+sm4350
+MOVE_CURSOR_BACKWARD_BY_CHARACTER
+synth.onStart
+Vivo
+kotlin.collections.List
+glDeleteFramebuffers
+MOVE_CURSOR_FORWARD_BY_CHARACTER
+GPSImgDirection
+lemp
+args
+resizeUpLeft
+TextInputType.emailAddress
+ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+android.view.View$AttachInfo
+FlutterActivity
+java.lang.Float
+GPSDifferential
+Dispatchers.IO
+CX:getAvailableCameraInfos
+focus
+android.settings.REQUEST_SCHEDULE_EXA...
+androidConfig
+SEARCHING
+PAUSED
+androidx.profileinstaller.action.SAVE...
+android.os.Build$VERSION
+camerax.core.imageCapture.captureMode
+ImageWidth
+executor
+tmp
+androidx.window.extensions.WindowExte...
+ProxyApiRegistrar
+clearCaptureRequestOptions
+fullPackage
+write
+onStop
+removedDevices
+GPSDestLatitudeRef
+SensorLeftBorder
+LOCKED
+byte
+glBindTexture
+camerax.core.imageOutput.targetRotation
+SCANNING
+GPSStatus
+camerax.core.imageCapture.captureBundle
+dev.flutter.pigeon.camera_android_cam...
+clearVoice
+XResolution
+YCbCrCoefficients
+camerax.core.appConfig.cameraFactoryP...
+resizeUp
+creditCardNumber
+onPostResume
+REOPENING_QUIRK
+wait
+FlutterActivityAndFragmentDelegate
+birthDateYear
+AePreCapture
+MaxApertureValue
+LensSerialNumber
+intensities
+OFF
+playbackRate
+top
+io.flutter.embedding.android.EnableVu...
+DO_NOT_DISTURB_MODE_ENABLED
+java.lang.String
+ExifIFDPointer
+TextInput.setClient
+resizeDown
+product
+mServiceConnection
+uTexMatrix
+OnePlus6
+cameraX
+framework
+camera.cameraInfo
+messenger
+OnePlus
+QuirkSettingsLoader
+dev.flutter.pigeon.camera_android_cam...
+camera2.cameraCaptureSession.physical...
+Redmi
+ExifVersion
+New
+camerax.core.imageAnalysis.backpressu...
+createReprocessCaptureRequest
+samsungexynos7570
+STREAM_SHARING
+camerax.core.useCase.defaultCaptureCo...
+PENDING_OPEN
+ReflectionGuard
+Copyright
+gta8
+android.widget.CheckBox
+dev.flutter.pigeon.camera_android_cam...
+FlashAvailability
+HapticFeedback.vibrate
+repeatCount
+void
+flutter/restoration
+onUserLeaveHint
+dev.flutter.pigeon.camera_android_cam...
+recorderId
+dev.flutter.pigeon.camera_android_cam...
+_cur
+google_sdk
+speak.onComplete
+SensitivityType
+NOT_SUPPORT
+camerax.core.target.name
+basic
+kotlin.Throwable
+startSendingAudio
+parkedWorkersStack
+android.permission.GET_ACCOUNTS
+ACTIVE
+RINGTONES
+latency
+systemNavigationBarColor
+displayCutout
+PlatformPlugin
+eventArg
+areLanguagesInstalled
+EXTERNAL
+kotlin.Annotation
+GPSTrackRef
+android.permission.NEARBY_WIFI_DEVICES
+LANDSCAPE_LEFT
+direction
+camerax.core.io.ioExecutor
+72/1
+SubjectLocation
+BITMAP
+android.permission.WRITE_CALL_LOG
+enableExternalFlashAeMode
+Array
+DigitalZoomRatio
+intrface
+setValue
+UNKNOWN
+android.permission.CAMERA
+fileName
+accessibility
+gta8wifi
+FRONT
+password
+kotlinx.coroutines.scheduler.keep.ali...
+audio/wav
+DOLBY_VISION
+onCameraControlReady
+state
+dock
+CompanionObject
+/10000
+element
+zoomIn
+android.view.ViewRootImpl
+SAMSUNG
+setVoice
+GPSImgDirectionRef
+input
+InteroperabilityIndex
+FocalPlaneYResolution
+dev.flutter.pigeon.camera_android_cam...
+xyz.luan/audioplayers
+caps.audioCapabilities.supportedSampl...
+FLASH_REQUIRED
+GPSDestDistanceRef
+lge
+getStateMethod
+dev.flutter.pigeon.camera_android_cam...
+camerax.video.VideoCapture.videoEncod...
+LEGACY
+CUSTOM_ACTION
+surface_util_jni
+HWANE
+setAudioAttributesForNavigation
+cached_engine_id
+android.permission.BODY_SENSORS_BACKG...
+setRemoveOnCancelPolicy
+MUSIC
+receive
+WhitePoint
+android.permission.READ_MEDIA_IMAGES
+checkOpNoThrow
+forbidden
+_enableShutterSound
+windowToken
+onTrimMemory
+getSourceNodeId
+AudioAccessDenied
+$wrappedPlayer
+VidEncCfgDefaultRslvr
+klass.interfaces
+camerax.core.target.class
+lib
+remoteSubMix
+flutter/backgesture
+dev.flutter.pigeon.path_provider_andr...
+bitrate
+source
+OPTIONAL
+removeListenerMethod
+FINGERPRINT
+isFullPath
+java.lang.Short
+android.widget.Button
+_closeCause
+A37F
+addressCity
+camerax.core.imageCapture.useSoftware...
+glTexParameter
+PENDING_START
+DIAGNOSTIC_PROFILE_IS_COMPRESSED
+HandlerCompat
+phoneNumber
+composingBase
+invokePreCapture
+network_required
+muteAudio
+INTERRUPTED_RCV
+xyz.luan/audioplayers/events/
+HH:mm:ss
+onRequestPermissionsResult
+dev.flutter.pigeon.camera_android_cam...
+platformViewId
+GPSDateStamp
+_isTerminated
+DefAudioResolver
+SEALED
+dev.flutter.pigeon.camera_android_cam...
+CREATED
+MetadataImageReader
+bootloader
+setSourceBytes
+android.media.extra.SCO_AUDIO_STATE
+PermissionHandler.ServiceManager
+dev.flutter.pigeon.camera_android_cam...
+dev.flutter.pigeon.camera_android_cam...
+SubfileType
+DNGVersion
+yes
+EXTRA_SKIP_FILE_OPERATION
+start
+_windowInsetsCompat
+CameraExecutor
+GL_EXT_YUV_target
+glCreateProgram
+getPosture
+pair
+generic
+dev.flutter.pigeon.camera_android_cam...
+AudioSource
+aPosition
+getWindowExtensions
+PASTE
+short
+PENDING_START_PAUSED
+COMPLETING_RETRY
+ApertureValue
+TextInput.clearClient
+SCROLL_RIGHT
+android.widget.ImageView
+android.widget.RadioButton
+textCapitalization
+CODENAME
+required
+put
+YResolution
+TextInputType.text
+shouldShowRequestPermissionRationale
+FAILED
+POISONED
+SCROLL_LEFT
+HapticFeedbackType.heavyImpact
+eglDestroySurface
+setAudioContext
+hardware
+flutter/platform
+closeHandler
+detectSurfaceType
+removeWindowLayoutInfoListener
+robolectric
+supported64BitAbis
+BUFFERED
+light
+dev.flutter.pigeon.camera_android_cam...
+.apk
+voice.name
+DeviceOrientationManager.onDeviceOrie...
+CHANNEL_CLOSED
+androidx.camera.core.quirks.FORCE_DIS...
+java.lang.Throwable
+ERROR_RECORDER_ERROR
+/data/misc/profiles/cur/0/
+dev.flutter.pigeon.camera_android_cam...
+SystemSound.play
+ImageReaderSurfaceProducer
+recorderRecordStreamHandler
+unknown
+android.intent.action.RUN
+android.widget.SeekBar
+addCaptureRequestOptions
+android.permission.ACCESS_NOTIFICATIO...
+low
+CaptureNode
+INITIALIZED
+android.permission.REQUEST_IGNORE_BAT...
+KeyEventChannel
+android.support.v13.view.inputmethod....
+producerIndex
+flutter/settings
+addressLocality
+CFAPattern
+GPSDestBearingRef
+SBYTE
+dev.flutter.pigeon.camera_android_cam...
+DeviceOrientation.landscapeLeft
+dev.flutter.pigeon.camera_android_cam...
+.immediate
+TextInputAction.unspecified
+motorola
+char
+TAG
+DM20C
+TAP
+PENTAX
+PigeonProxyApiRegistrar
+glGenTextures
+listen
+RESULT_INSTALL_SUCCESS
+vibrator_manager
+wm.maximumWindowMetrics.bounds
+redmi
+TextInputAction.commitContent
+inputType
+takePictureInternal
+SubSecTime
+CLOSE_HANDLER_INVOKED
+dev.flutter.pigeon.camera_android_cam...
+java.lang.Cloneable
+/1000
+speak.onStart
+GPSLongitudeRef
+format
+DefaultSurfaceProcessor
+GeneratedPluginRegistrant
+camerax.core.imageOutput.supportedRes...
+pause
+audio/flac
+dev.flutter.pigeon.camera_android_cam...
+io.flutter.embedding.android.EnableIm...
+camerax.core.imageCapture.jpegCompres...
+CAP
+HDMI
+audio/3gpp
+android.permission.ACTIVITY_RECOGNITION
+setLocale
+Clipboard.setData
+TextInput.sendAppPrivateCommand
+TextInputType.phone
+CLOSED
+0230
+dev.flutter.pigeon.camera_android_cam...
+speak.onCancel
+com.llfbandit.record/events/
+consumerIndex
+MEDIA_ERROR_MALFORMED
+_removedRef
+$ex
+dev.flutter.pigeon.camera_android_cam...
+alias
+camerax.core.useCase.videoStabilizati...
+kotlin.String.Companion
+temp
+ISOSpeedLatitudezzz
+ImageCapture
+AudioEncoder
+jClass
+TextInput.show
+dev.flutter.pigeon.camera_android_cam...
+camerax.video.VideoCapture.videoOutput
+OutputSizesCorrector
+VideoCapture:
+dev.flutter.pigeon.camera_android_cam...
+systemNavigationBarDividerColor
+createCaptureRequest
+mAttachInfo
+suggestions
+classes.dex
+resizeColumn
+sidecarCompat
+plugins
+mime
+kotlin.Cloneable
+androidx.camera.video.VideoCapture.st...
+getEngines
+PlatformViewsController
+GPSDestBearing
+path
+ExposureMode
+record
+dev.flutter.pigeon.camera_android_cam...
+kotlin.reflect.jvm.internal.Reflectio...
+FOLD
+cleanedAndPointers
+addObserver
+PixelXDimension
+ProcessingNode
+profile
+camerax.core.appConfig.deviceSurfaceM...
+ERROR_SOURCE
+ON_ANY
+guava.concurrent.generate_cancellatio...
+SystemNavigator.setFrameworkHandlesBack
+tags
+LIMITED
+route
+setZoomRatio
+ON_PAUSE
+MeteringMode
+domain
+StripByteCounts
+viewType
+editingValue
+MEDIA_PLAYER
+EnableTorchInternal
+SidecarCompat
+dev.flutter.pigeon.camera_android_cam...
+getDefaultVoice
+info.supportedTypes
+CAMERA_DISABLED
+DROP_LATEST
+Emulator
+_exceptionsHolder
+mcl.codecInfos
+transparent
+dev.flutter.pigeon.camera_android_cam...
+audioFocus
+background_mode
+defaultDisplay
+StripOffsets
+android.permission.SEND_SMS
+RESULT_DESIRED_FORMAT_UNSUPPORTED
+ISOSpeedRatings
+DualSurfaceProcessor
+clearFocus
+voiceToCheck.features
+camerax.core.appConfig.cameraProvider...
+cameraSelector.cameraFilterSet
+HDR10_PLUS
+PigeonProxyApiBaseCodec
+hintText
+personNamePrefix
+toString
+android.permission.BLUETOOTH
+feature.rect
+missingDelimiterValue
+SubIFDPointer
+kotlin.Boolean
+_queue
+setSidecarCallback
+OECF
+info
+CONCURRENT_CAMERA
+android.permission.READ_MEDIA_AUDIO
+glEnableVertexAttribArray
+METERING_REPEATING
+android.permission.RECORD_AUDIO
+DISABLED
+ValidatingBuilder
+TextInputType.name
+SUPPORTED_32_BIT_ABIS
+navigation_bar_height
+java.lang.annotation.Annotation
+android.permission.BLUETOOTH_CONNECT
+FlutterImageView
+camerax.core.imageInput.inputDynamicR...
+android.permission.ACCESS_MEDIA_LOCATION
+TERMINATED
+ImageUtil
+flutter/navigation
+Localization.getStringResource
+getCurrentPosition
+ERROR_ENCODING_FAILED
+stopMediaCodec
+kotlin.collections.Map
+duration
+cached_engine_group_id
+ProcessText.queryTextActions
+SubjectArea
+hashCode
+ProfileInstaller
+updateBackGestureProgress
+valueArg
+java.lang.Boolean
+ums
+FocalPlaneXResolution
+Analyzer.analyze
+classSimpleName
+VIDEO_CAPTURE
+DeviceOrientation.landscapeRight
+.jpg
+ExifInterface
+IconCompat
+BASE_OS
+dev.flutter.pigeon.camera_android_cam...
+keydown
+%s
+activateSystemCursor
+OTHER_RECOVERABLE_ERROR
+RELEASED
+flutter/accessibility
+resize
+TextEditingDelta
+DEFAULT
+MotoG3
+SensingMethod
+android.media.ACTION_SCO_AUDIO_STATE_...
+DROP_OLDEST
+dev.flutter.pigeon.camera_android_cam...
+BOARD
+android.permission.WRITE_CALENDAR
+lastScheduledTask
+camerax.core.imageOutput.appTargetRot...
+birthdayMonth
+ON7XELTE
+autocorrect
+balance
+manageBluetooth
+HapticFeedbackType.selectionClick
+endIndex
+fingerprint
+action
+text
+setBalance
+BackupHdrProfileEncoderProfilesProvider
+FocusMeteringControl
+dev.flutter.pigeon.camera_android_cam...
+READY
+TextInput.finishAutofillContext
+Google
+init
+primary.prof
+io.flutter.embedding.android.EnableOp...
+com.llfbandit.record/messages
+signed
+encoder
+Contrast
+FlutterView
+ERROR_MAX_CAMERAS_IN_USE
+PLAIN_TEXT
+tts.javaClass.declaredFields
+getResId
+MOVE_CURSOR_FORWARD_BY_WORD
+audio.onComplete
+fullStreetAddress
+arch_disk_io_
+camerax.core.camera.isCaptureProcessP...
+SamplesPerPixel
+dev.flutter.pigeon.camera_android_cam...
+dev.flutter.pigeon.camera_android_cam...
+YCbCrSubSampling
+errorDescriptionArg
+samsungexynos7420
+max
+camerax.core.useCase.highResolutionDi...
+OpenGlRenderer
+FlashEnergy
+dev.flutter.pigeon.path_provider_andr...
+uri
+CapabilitiesByQuality
+url
+TextInputAction.done
+glUseProgram
+V2244A
+glUniformMatrix4fv
+onSaveInstanceState
+io.flutter.EntrypointUri
+23053rn02l
+android.hardware.camera.concurrent
+resizeUpLeftDownRight
+KeyboardManager
+RESUMED
+TtsError
+instance
+android.permission.READ_CALENDAR
+voiceCall
+main
+RELEASING
+commitBackGesture
+mVisibleInsets
+file://
+host
+redfin
+startFocusAndMetering
+supportedAbis
+birthDateMonth
+DEVICE
+ListenableEditingState
+audioMode
+separator
+PENDING_RECORDING
+personMiddleName
+codec
+AUTO
+null
+CameraStateRegistry
+codename
+true
+BOOTLOADER
+dispose
+Samsung
+phoneNational
+position
+SSHORT
+entry.key
+Camera2CameraFactory
+securityPatch
+dev.flutter.pigeon.camera_android_cam...
+removeObservers
+SubjectDistance
+audio/vorbis
+videoEncodingFuture
+statusBarIconBrightness
+glDrawArrays
+dcim
+CAPTURE_CONFIG_ID_KEY
+sendersAndCloseStatus
+android.permission.BLUETOOTH_ADVERTISE
+asyncTraceEnd
+TTS
+transform
+getWindowLayoutComponentMethod
+CustomRendered
+STARTED
+repeat
+CameraDeviceCompat
+clearPipeline
+/1
+voiceRecognition
+DONE_RCV
+Clipboard.getData
+G3125
+TextInputType.twitter
+dev.flutter.pigeon.path_provider_andr...
+Trace
+androidx.core.view.inputmethod.Editor...
+bytes
+Completed
+callback
+UNINITIALIZED
+RESUME_TOKEN
+tp1a
+entry.value
+android.permission.READ_EXTERNAL_STORAGE
+LightSource
+ProcessText.processTextAction
+xiaomi
+camerax.core.imageOutput.defaultResol...
+ZslControlImpl
+REALTIME
+io.flutter.embedding.android.DisableM...
+m2003j15sc
+TextInput.hide
+telephoneNumberNational
+character
+java.lang.Long
+camerax.core.imageOutput.targetResolu...
+metaState
+TRACE_TAG_APP
+height
+isPaused
+CUT
+$this$require
+LGE
+CLOSEST_LOWER_THEN_HIGHER
+quality
+INFO_SUPPORTED_HARDWARE_LEVEL_EXTERNAL
+input_method
+availableRamSize
+oldText
+Clipboard.hasStrings
+hasPermission
+audio.onLog
+soundPool
+SubjectDistanceRange
+ERROR_DURATION_LIMIT_REACHED
+camerax.core.useCase.surfaceOccupancy...
+mic
+kotlin.Function
+dev.flutter.pigeon.camera_android_cam...
+URATIONAL
+long
+waitForSessionUpdateId:
+SIL_
+aacEld
+TakePictureManager
+startBackGesture
+PlanarConfiguration
+min
+camera2.captureRequest.templateType
+kotlinx.coroutines.channels.defaultBu...
+bitRate
+android.type.verbatim
+usageType
+RowsPerStrip
+echoCancel
+AudioEncCfgDefaultRslvr
+camerax.core.imageAnalysis.outputImag...
+androidx.core.view.inputmethod.Editor...
+MAX_CAMERAS_IN_USE
+speak.onError
+camerax.core.imageOutput.mirrorMode
+systemNavigationBarIconBrightness
+contextMenu
+glFramebufferTexture2D
+STRING
+progress
+GPSDestDistance
+autofill
+TextCapitalization.none
+android.widget.EditText
+Scribe.startStylusHandwriting
+NO_DECISION
+camerax.core.camera.isPostviewSupported
+JPEGInterchangeFormat
+universal7420
+postalCode
+StreamUseCaseUtil
+positivo
+AudioSrcAdPrflRslvr
+TextInput.setEditingState
+IMAGE_ANALYSIS
+glReadPixels
+androidx.profileinstaller.action.INST...
+ON_START
+PENDING_PAUSED
+birthDateFull
+kotlinx.coroutines.io.parallelism
+caps.audioCapabilities.bitrateRange
+android.view.DisplayInfo
+profileInstalled
+GainControl
+_next
+camerax.core.imageAnalysis.outputImag...
+isLanguageAvailable
+CameraOrientationUtil
+ERROR_CAMERA_SERVICE
+downloads
+textservices
+ERROR_RECORDING_GARBAGE_COLLECTED
+dev.flutter.pigeon.camera_android_cam...
+CLOSING
+creditCardExpirationYear
+OffsetTimeDigitized
+SystemUiMode.leanBack
+screenFlashListener
+binaryMessenger
+video/av01
+Scribe.isFeatureAvailable
+getAmplitude
+updateSessionConfigAsync
+CPH1901
+java.lang.Object
+TextInputType.webSearch
+SystemChrome.setSystemUIChangeListener
+CPH1909
+samsungexynos7870
+releaseMode
+dexopt/baseline.profm
+base
+TextInput.setPlatformViewClient
+extendedPostalCode
+kotlinx.coroutines.bufferedChannel.se...
+camera2.cameraCaptureSession.stateCal...
+prefix
+binding
+zoomOut
+camerax.core.thread.backgroundExecutor
+state1
+movies
+AudioConfigUtil
+getViewRootImpl
+delimiter
+superclass
+permissions
+setPlaybackRate
+tel:123123
+NONE
+TYPE
+ERROR_NONE
+s720p
+hints
+onWindowLayoutChangeListenerAdded
+keyup
+java.util.Set
+v2207
+v2204
+SensorRightBorder
+noiseSuppress
+dev.flutter.pigeon.camera_android_cam...
+word
+brieflyShowPassword
+OPENED
+newDeviceState
+DELETE_SKIP_FILE
+voiceUplink
+numChannels
+glTexImage2D
+kotlin.collections.MutableMap
+gender
+resizeRow
+usesVirtualDisplay
+pictures
+dev.flutter.pigeon.camera_android_cam...
+RATIO_DEFAULT
+dev.flutter.pigeon.camera_android_cam...
+dev.fluttercommunity.plus/device_info
+SUPPORTED_ABIS
+amplitude
+NO_THREAD_ELEMENTS
+INTERRUPTED_SEND
+FLAT
+camerax.core.useCase.targetFrameRate
+Camera2CameraCoordinator
+getDisplayInfo
+DOUBLE
+event
+$buffer
+android.hardware.camera.front
+resizeDownRight
+newLayout
+COPY
+PENDING
+MODEL
+incremental
+androidx.profileinstaller.action.BENC...
+isLocal
+TransferFunction
+outState
+dev.flutter.pigeon.camera_android_cam...
+cph1920
+SensorTopBorder
+java.lang.Comparable
+ALARMS
+Genymotion
+cph1923
+dev.flutter.pigeon.camera_android_cam...
+voice
+msg
+android.widget.Switch
+contentResolver
+useLegacy
+resizeUpRightDownLeft
+infinix
+float
+BitsPerSample
+postalAddressExtended
+Gamma
+java.lang.Enum
+oppo
+PHT110
+GPSVersionID
+enableIMEPersonalizedLearning
+familyName
+dev.flutter.pigeon.camera_android_cam...
+DETACHED
+android.permission.POST_NOTIFICATIONS
+k61v1_basic_ref
+TextInputType.datetime
+TextInputAction.go
+offset
+SystemChrome.setApplicationSwitcherDe...
+METERING
+isPhysicalDevice
+MEDIA_ERROR_IO
+INFO_SUPPORTED_HARDWARE_LEVEL_FULL
+keyCode
+android.permission.SCHEDULE_EXACT_ALARM
+camerax.core.appConfig.cameraExecutor
+DATA
+UTF8
+ThumbnailImage
+flutter/localization
+didGainFocus
+Software
+LOCKED_NOT_FOCUSED
+setLanguage
+HLG
+HDR_UNSPECIFIED
+Brightness.light
+error
+platform
+getBoundsMethod
+kotlin.Byte
+bufferEnd
+ACTIVE_NON_STREAMING
+array
+DeferrableSurface
+voicePerformance
+postfix
+aTextureCoord
+value
+dev.flutter.pigeon.camera_android_cam...
+opaque
+REUSABLE_CLAIMED
+CaptureSession
+supported32BitAbis
+0x%08x
+dart_entrypoint_args
+android.hardware.telephony
+observeForever
+int
+GPSDestLongitudeRef
+LensMake
+MEDIA_ERROR_SYSTEM
+bluetooth
+com.google.android.inputmethod.latin
+Xmp
+CLOSEST_HIGHER_THEN_LOWER
+awaitSpeakCompletion
+AccessibilityBridge
+exception
+StandardOutputSensitivity
+TextInput.requestAutofill
+opus
+deviceId
+UHD
+music
+GPSSpeed
+verticalText
+hasCustomVibrationsSupport
+android.util.LongArray
+verificationMode
+getUncaughtExceptionPreHandler
+onBackPressed
+ranchu
+AE
+LANDSCAPE_RIGHT
+AF
+dev.flutter.pigeon.camera_android_cam...
+_handled
+givenName
+google
+RELEASE
+CAMERA_IN_USE
+cph2083
+version
+systemFeatures
+stop
+kotlin.jvm.functions.
+kotlinx.coroutines.scheduler.default....
+voiceCommunication
+glVertexAttribPointer
+retry_token
+TextInputClient.updateEditingStateWit...
+android.permission.READ_CONTACTS
+VideoEncoderInfoWrapper
+DECREASE
+android.settings.action.MANAGE_OVERLA...
+PORTRAIT_DOWN
+touchOffset
+JPEG
+Camera2CaptureRequestBuilder
+players.values
+android.intent.extra.PROCESS_TEXT_REA...
+libapp.so
+com.google.common.base.Strings
+RestorationChannel
+middleInitial
+video/avc
+xyz.luan/audioplayers.global/events
+camerax.core.useCase.captureType
+codePoint
+SystemUiOverlay.top
+RESULT_PARSE_EXCEPTION
+CameraOwnerName
+RATIO4TO3
+SurfaceOutputImpl
+QualitySelector
+xyz.luan/audioplayers.global
+synthesizeToFile
+autoGain
+package:
+this$0
+setReleaseMode
+onNewIntent
+PREVIEW
+INFO_SUPPORTED_HARDWARE_LEVEL_LIMITED
+Startup
+ULONG
+acc
+flutter_assets
+GPSAltitude
+utteranceId
+dev.flutter.pigeon.camera_android_cam...
+ImageUniqueID
+TextInputClient.performPrivateCommand
+androidx.profileinstaller.action.SKIP...
+v2117
+SUPPORTED_64_BIT_ABIS
+ref
+addSuppressed
+ThumbnailImageWidth
+VideoEncoderSession
+Camera
+aacLc
+addressCountry
+pigeon_instanceArg
+emitLog
+sdkInt
+DID_LOSE_ACCESSIBILITY_FOCUS
+ERROR_INVALID_OUTPUT_OPTIONS
+CPH2223
+volume
+phoneCountryCode
+telephoneNumberCountryCode
+CONFIGURED
+YUV
+ERROR_UNKNOWN
+decimal
+UseFlashModeTorchFor3aUpdate
+TextInput.setEditableSizeAndTransform
+ROOT
+FM
+dev.flutter.pigeon.camera_android_cam...
+PixelYDimension
+camera2.cameraCaptureSession.captureC...
+android.permission.WRITE_EXTERNAL_STO...
+FlashpixVersion
+getDeviceInfo
+WhiteBalance
+SET_SELECTION
+end
+io.flutter.embedding.android.OldGenHe...
+BITMAP_MASKABLE
+stayAwake
+camerax.core.captureConfig.jpegQuality
+dev.flutter.pigeon.path_provider_andr...
+Recorder
+http://ns.adobe.com/xap/1.0/
+label
+message
+dev.flutter.pigeon.camera_android_cam...
+scanCode
+FlutterJNI
+cameraSelector
+java.util.function.Consumer
+StreamConfigurationMapCompat
+setDisplayFeatures
+JPEG_R
+dev.flutter.pigeon.camera_android_cam...
+HapticFeedbackType.lightImpact
+td1a
+dev.flutter.pigeon.camera_android_cam...
+HD
+creditCardExpirationDay
+username
+acquireBuffer
+grantResults
+cph2015
+release
+UNDEFINED
+requestPermissions
+GPSTimeStamp
+glBindFramebuffer
+dexopt/baseline.prof
+BYTE
+kotlinx.coroutines.internal.StackTrac...
+android.settings.NOTIFICATION_POLICY_...
+ID
+createSegment
+TextInputType.none
+TextInputAction.none
+CameraRepository
+aacHe
+IP
+FileSource
+FocalLengthIn35mmFilm
+_rootCause
+binding.applicationContext
+sampleRate
+Hz
+dev.flutter.pigeon.camera_android_cam...
+RESULT_NOT_WRITABLE
+%02d:%02d:%02d
+io.flutter.Entrypoint
+Nokia
+RESULT_INSTALL_SKIP_FILE_SUCCESS
+CX:initAndRetryRecursively
+other
+android.intent.extra.TEXT
+dev.flutter.pigeon.camera_android_cam...
+cell
+URI
+FlutterTextureView
+manufacturer
+ZoomControl
+camerax.core.imageCapture.bufferFormat
+methodHandler
+kotlin.Long
+Completing
+speak
+addressRegion
+NOTIFICATIONS
+Sony
+android.settings.APPLICATION_DETAILS_...
+_resumed
+TextInputType.multiline
+GPSHPositioningError
+getChildId
+android.permission.RECEIVE_MMS
+PASSIVE_FOCUSED
+getGenerationId
+REDMI
+runningWorkers
+SequentialExecutor
+sprd
+DESTROYED
+camera2.streamSpec.streamUseCase
+GPSLatitude
+getTempFilePath_failure
+cph2451
+selectionExtent
+SystemChrome.setEnabledSystemUIOverlays
+Compression
+SINGLE
+SurfaceProcessorNode
+ExposureProgram
+kotlin.collections.Collection
+UTC
+dev.flutter.pigeon.camera_android_cam...
+dev.flutter.pigeon.camera_android_cam...
+vibration
+TextInputAction.send
+DeviceQuirks
+onStart
+_isCompleting
+dev.flutter.pigeon.camera_android_cam...
+isLowRamDevice
+rmx3710
+CONVERGED
+buffer
+MH
+FNumber
+dev.flutter.pigeon.camera_android_cam...
+noDrop
+flutter/keydata
+read
+memoryPressure
+CX:unbind
+touch
+glDeleteTextures
+onResume
+android.permission.MANAGE_EXTERNAL_ST...
+TorchOn
+java.util.List
+hybrid
+cph2437
+kotlin.Int
+ImageDescription
+OP_POST_NOTIFICATION
+android.permission.CALL_PHONE
+soundPoolPlayer
+J7XELTE
+CameraControlSessionUpdateId
+handleLifecycleEvent
+RATIO16TO9
+dev.flutter.pigeon.camera_android_cam...
+COMPLETING_ALREADY
+LOCKED_FOCUSED
+java.lang.Iterable
+MakerNote
+kotlinx.coroutines.DefaultExecutor.ke...
+OffsetTime
+flutter_tts
+YCbCrPositioning
+synchronizeToNativeViewHierarchy
+info.displayFeatures
+23078pnd5g
+ON
+android.permission.RECEIVE_WAP_PUSH
+sm6375
+dev.flutter.pigeon.camera_android_cam...
+camera2.cameraDevice.stateCallback
+camerax.core.streamSharing.captureTypes
+windowConfiguration
+dev.flutter.pigeon.camera_android_cam...
+heroqltetmo
+setVolume
+resizeUpRight
+androidx.window.extensions.layout.Win...
+0.0
+flutter/lifecycle
+TextInputType.number
+0.5
+SLONG
+cph2417
+getParentNodeId
+android.intent.action.CONFIGURATION_C...
+SupportedOutputSizesCollector
+android.permission.READ_PHONE_NUMBERS
+unprocessed
+camerax.core.imageCapture.imageReader...
+fullySpecifiedDynamicRanges
+getAppBounds
+PermissionHandler.PermissionManager
+SystemChrome.setEnabledSystemUIMode
+permissions_handler
+ringtones
+ANIM
+android.widget.HorizontalScrollView
+receiveSegment
+NO_CLOSE_CAUSE
+INCREASE
+ImageCapture:
+cph2525
+ERROR
+waitFor3AResult
+cache
+creditCardExpirationMonth
+android.permission.BLUETOOTH_SCAN
+deltaText
+Make
+AudioEncAdPrflRslvr
+io.flutter.embedding.android.EnableSu...
+voice.features
+INFO_SUPPORTED_HARDWARE_LEVEL_LEGACY
+MEDIA_ERROR_TIMED_OUT
+_COROUTINE.
+CX:bindToLifecycle
+REMOVE_FROZEN
+ACTIVE_STREAMING
+ImageAnalysis:
+.tmp
+CameraUseCaseAdapter
+A24
+globalEvents
+CameraX
+dev.flutter.pigeon.camera_android_cam...
+context.applicationContext
+DROP_SHADER_CACHE
+HUAWEI
+EGL_EXT_gl_colorspace_bt2020_hlg
+pigeonRegistrar
+dev.flutter.pigeon.camera_android_cam...
+oemFeature.bounds
+kotlin.collections.ListIterator
+SD
+GPSLatitudeRef
+getKeyboardState
+CAMERA_CHARACTERISTICS_CREATION_ERROR
+TextInputClient.updateEditingStateWit...
+ComponentsConfiguration
+dev.flutter.pigeon.camera_android_cam...
+blockingTasksInBuffer
+call
+UPTIME
+android.permission.READ_CALL_LOG
+streetAddress
+SystemServicesManager.onCameraError
+camerax.core.useCase.sessionConfigUnp...
+kotlin.Char
+flutter/isolate
+ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+grab
+_decisionAndIndex
+dev.flutter.pigeon.camera_android_cam...
+dimen
+documents
+java.util.ListIterator
+GPSAltitudeRef
+V2149
+DefaultDispatcher
+PRIV
+kotlin.Double
+onActivityResult
+ImmediateFuture
+GPSMapDatum
+features
+view
+ScreenFlashWrapper
+allScroll
+SystemChrome.systemUIChange
+ANMF
+camerax.core.appConfig.minimumLogging...
+DualOpenGlRenderer
+dev.flutter.pigeon.camera_android_cam...
+synth.onComplete
+tkq1
+includeSubdomains
+unreachable
+serialNumber
+android.intent.action.CALL
+creditCardSecurityCode
+$call
+PreviewImageStart
+FULL
+Camera2CapturePipeline
+flutter
+GPSDestLongitude
+telephony
+name
+REOPENING
+SceneCaptureType
+DartExecutor
+fields
+uAlphaScale
+camerax.core.imageCapture.flashMode
+OnePlus6T
+INCREMENTAL
+CameraValidator
+getDescriptor
+keymap
+string
+FlutterLoader
+deltaStart
+IFD
+kotlin.coroutines.jvm.internal.BaseCo...
+android
+MediaCodecEncoder
+SyncCaptureSessionBase
+nameSuffix
+description
+java.lang.module.ModuleDescriptor
+android.hardware.camera2.legacy.Legac...
+acquireInputBuffer
+dev.flutter.pigeon.camera_android_cam...
+CameraQuirks
+textScaleFactor
+DISPLAY
+isEncoderSupported
+namePrefix
+ERROR_INSUFFICIENT_STORAGE
+wrappedPlayer
+io.flutter.embedding.android.NormalTheme
+flutter.baseflow.com/permissions/methods
+SUSPEND_NO_WAITER
+Dispatchers.Main
+FileOutputOptions
+com.llfbandit.record/eventsRecord/
+speak.onPause
+FlutterSurfaceView
+finalizeRecording
+Cancelled
+dev.flutter.pigeon.camera_android_cam...
+wav
+dev.flutter.pigeon.camera_android_cam...
+camerax.core.imageCapture.outputFormat
+PrimaryChromaticities
+enableSuggestions
+CameraAccessDenied
+middleName
+rmx1941
+window
+personFamilyName
+Cancelling
+INFO_SUPPORTED_HARDWARE_LEVEL_3
+getDefaultEngine
+_isCompleted
+hybridFallback
+speak.onContinue
+getBounds
+EmptyCoroutineContext
+dev.flutter.pigeon.camera_android_cam...
+ACTION_ARGUMENT_SELECTION_END_INT
+OnScreenFlashStart
+dev.flutter.pigeon.camera_android_cam...
+ExposureTime
+TextInputAction.search
+dev.flutter.pigeon.camera_android_cam...
+itel
+dart_entrypoint
+rmx3231
+android.permission.ACCESS_BACKGROUND_...
+kotlinx.coroutines.scheduler.core.poo...
+kotlinx.coroutines.scheduler.max.pool...
+double
+dev.flutter.pigeon.camera_android_cam...
+newPassword
+smsOTPCode
+RelatedSoundFile
+flutter_deeplinking_enabled
+FIRED
+phone
+kotlin.Short
+android.settings.MANAGE_UNKNOWN_APP_S...
+getDisplayFeatures
+cancelFocusAndMetering
+UseCaseAttachState
+GPSTrack
+SceneType
+FileOutputOptionsInternal
+joyeuse
+flags
+pattern
+onPause
+SystemUiOverlay.bottom
+enabled
+kotlinx.coroutines.bufferedChannel.ex...
+android.permission.ACCESS_FINE_LOCATION
+CAMERA_STATE
+resuming_sender
+stackTrace
+setDirection
+camerax.core.camera.useCaseCombinatio...
+ERROR_NO_VALID_DATA
+java.util.Map$Entry
+HDR10
+VP8L
+display
+camerax.core.appConfig.useCaseConfigF...
+LensModel
+SpellCheck.initiateSpellCheck
+audio/opus
+composingExtent
+birthDateDay
+VP8X
+isMeteringRepeatingAttached
+MeteringRepeating
+CAMERA_FATAL_ERROR
+libflutter.so
+dev.flutter.pigeon.camera_android_cam...
+width
+PORTRAIT_UP
+sendSegment
+_parentHandle
+board
+dev.flutter.pigeon.camera_android_cam...
+kotlinx.coroutines.fast.service.loader
+file.path
+camerax.core.imageAnalysis.imageReade...
+completedExpandBuffersAndPauseFlag
+insets
+AndroidAudioError
+kotlin.Any
+Brightness.dark
+ISOSpeed
+DynamicRangeResolver
+SettingsChannel
+analyzeImage
+notification
+selectionBase
+submitStillCapture
+plainCodePoint
+getWindowLayoutComponent
+glAttachShader
+setSourceUrl
+_reusableCancellableContinuation
+android.view.View
+java.lang.Byte
+contentType
+setEngine
+deltaEnd
+kind
+camerax.core.useCase.isPostviewEnabled
+ERROR_CAMERA_DISABLED
+android.permission.REQUEST_INSTALL_PA...
+_consensus
+CANCELLED
+VGA
+SCROLL_UP
+fetchData
+emitError
+kotlin.collections.Iterator
+CLOSED_EMPTY
+job
+camerax.core.imageAnalysis.onePixelSh...
+TextInputClient.requestExistingInputS...
+wm.defaultDisplay
+SET_TEXT
+SystemChrome.restoreSystemUIOverlays
+unexpected
+NO_RECEIVE_RESULT
+dev.flutter.pigeon.camera_android_cam...
+camerax.core.useCase.defaultSessionCo...
+audioEncodingFuture
+kotlin.Enum
+signalCodecStop
+ALWAYS_OVERRIDE
+Flash
+SensorBottomBorder
+deltas
+uniqueIdentifier
+IDLING
+move
+alarms
+setPosture
+audio.onSeekComplete
+mReleasedFuture
+android.permission.ANSWER_PHONE_CALLS
+recommended
+WindowInsetsCompat
+vibrator
+android.intent.action.PROCESS_TEXT
+dev.flutter.pigeon.camera_android_cam...
+android.permission.READ_PHONE_STATE
+MEDIA_ERROR_UNSUPPORTED
+DeviceSettingDescription
+camerax.core.imageOutput.resolutionSe...
+extent
+getModule
+setQueueMode
+dev.flutter.pigeon.camera_android_cam...
+openAppSettings
+tooltip
+RAW
+isSpeakerphoneOn
+RecommendedExposureIndex
+GPSSpeedRef
+flutter/keyboard
+systemStatusBarContrastEnforced
+androidx.lifecycle.LifecycleDispatche...
+getSuppressed
+camerax.video.VideoCapture.forceEnabl...
+DartMessenger
+dev.flutter.pigeon.camera_android_cam...
+SHOULD_BUFFER
+camerax.core.appConfig.cameraOpenRetr...
+MOVE_CURSOR_BACKWARD_BY_WORD
+traceCounter
+kotlin.Unit
+kotlinx.coroutines.scheduler.resoluti...
+FocalLength
+getType
+birthdayDay
+kotlin.jvm.internal.StringCompanionOb...
+dev.flutter.pigeon.camera_android_cam...
+sdk
+codecs.codecInfos
+TAGS
+java.
+resizeUpDown
+SystemSoundType.click
+lifecycleCameras
+ULTRA_HIGH_RESOLUTION_CAMERA
+popRoute
+androidx.window.extensions.WindowExte...
+android.permission.USE_SIP
+%02x
+android.permission.READ_MEDIA_VIDEO
+ISO
+video/3gpp
+ForceCloseDeferrableSurface
+useCases
+flutter/scribe
+INACTIVE
+getSpeechRateValidRange
+defaultSource
+enableOnBackInvokedCallbackState
+ExifData
+RECORDING
+dev.flutter.pigeon.camera_android_cam...
+eglCreateContext
+observe
+dev.flutter.pigeon.camera_android_cam...
+bufferInfo
+USHORT
+vivo
+configurationId
+STOPPING
+DOWNLOADS
+GLUtils
+minLogLevel
+SCROLL_TO_OFFSET
+ERROR_CAMERA_IN_USE
+MOVIES
+Failed
+video/none
+REQUIRED
+CameraStateMachine
+NonDisposableHandle
+ResolutionsMerger
+PODCASTS
+dev.flutter.pigeon.camera_android_cam...
+CLOSEST_HIGHER
+emulator
+baseOS
+ex
+dev.flutter.pigeon.camera_android_cam...
+HIGH_PRIORITY_REQUIRED
+LOW_LATENCY
+camerax.core.appConfig.schedulerHandler
+getVoices
+MediaRecorder
+countryName
+nodeId
+inputAction
+ThumbnailImageLength
+audio.onDuration
+Xiaomi
+SRATIONAL
+dev.flutter.pigeon.camera_android_cam...
+SilentAudioStream
+extendedAddress
+playerMode
+DOCUMENTS
+wm.currentWindowMetrics.bounds
+content
+vbox86p
+statusBarColor
+MEDIA_ERROR_SERVER_DIED
+s1440p
+contentCommitMimeTypes
+stopSendingAudio
+Scribe.isStylusHandwritingAvailable
+camerax.core.imageOutput.maxResolution
+os.arch
+FlutterEngineCxnRegstry
+fps
+false
+LEVEL3
+glUniform1f
+Sharpness
+SubSecTimeDigitized
+workerCtl
+TextInputClient.updateEditingState
+CX:unbindAll
+obj
+resizeLeft
+io.flutter.embedding.android.LeakVM
+pushRouteInformation
+BACK
+androidx.window.extensions.layout.Fol...
+ObserverToConsumerAdapter
+220233L2I
+setInitialRoute
+TextInputAction.next
+clipboard
+DateTime
+context.packageManager
+HINGE
+java.lang.Character
+context
+Camera2CameraControlImp
+dev.flutter.pigeon.camera_android_cam...
+model
+id
+birthdayYear
+DualSurfaceProcessorNode
+checkServiceStatus
+SECURITY_PATCH
+C2CameraCaptureResult
+it
+params
+announce
+UNDECIDED
+sm7325
+TextInputType.address
+vTextureCoord
+dev.flutter.pigeon.camera_android_cam...
+range.lower
+android.hardware.camera2.CaptureReque...
+TextInputType.url
+Camera2CameraInfo
+camerax.core.imageInput.inputFormat
+kotlin.jvm.internal.
+telephoneNumber
+audio/raw
+camcorder
+cancelBackGesture
+onConfigureFailed
+dev.flutter.pigeon.camera_android_cam...
+camera
+bundle
+onDestroy
+ERROR_FILE_SIZE_LIMIT_REACHED
+personNameSuffix
+listInputDevices
+kotlin.jvm.functions.Function
+blu
+GPSLongitude
+resizeLeftRight
+platformBrightness
+dev.flutter.pigeon.camera_android_cam...
+ReferenceBlackWhite
+android.widget.ScrollView
+VideoEncoder
+equals
+ResolutionUnit
+/data/misc/profiles/ref/
+flutter/processtext
+newUsername
+dev.flutter.pigeon.camera_android_cam...
+audioSource
+HOST
+mediaFormat
+CaptureCompleteFuture
+camerax.core.useCase.zslDisabled
+camerax.core.imageCapture.screenFlash
+_size
+high
+personMiddleInitial
+cleartextTrafficPermitted
+OnScreenFlashUiApplied
+video/hevc
+RequestCompleteFuture
+DID_GAIN_ACCESSIBILITY_FOCUS
+kotlin.Number
+DeviceOrientation.portraitDown
+ThumbnailOrientation
+TOO_LATE_TO_CANCEL
+NULL
+PhotographicSensitivity
+VideoTimebaseConverter
+CompressedBitsPerPixel
+io.flutter.embedding.android.Impeller...
+OutputConfigCompat
+grabbing
+mediaPlayer
+alwaysUse24HourFormat
+1.5
+Exif
+TextInputType.visiblePassword
+Observer.onChanged
+birthday
+p0
+p1
+code
+dev.flutter.pigeon.camera_android_cam...
+awaitSynthCompletion
+camerax.core.captureConfig.rotation
+receivers
+kotlin.Comparable
+HIGHEST
+dev.flutter.pigeon.path_provider_andr...
+dev.flutter.pigeon.camera_android_cam...
+camerax.core.imageOutput.targetAspect...
+show_password
+consumer
+methodChannel
+dev.flutter.pigeon.camera_android_cam...
+baseKey
+nativeSpellCheckServiceDefined
+android.hardware.camera
+simulator
+UserComment
+currentDisplay
+TorchControl
+LensSpecification
+longPress
+androidx.camera.core.quirks.FORCE_ENA...
+eglCreatePbufferSurface
+androidx.camera.core.impl.MetadataHol...
+COROUTINE_SUSPENDED
+GPSDOP
+RMX3231
+BufferedAudioStream
+GPSInfoIFDPointer
+Share.invoke
+flutter/textinput
+DefaultCropSize
+sTexture
+_LifecycleAdapter
+ENABLED
+DCIM
+PigeonInstanceManager
+Artist
+dev.flutter.pigeon.camera_android_cam...
+PathProviderPlugin
+image_processing_util_jni
+INITIALIZING
+createAsync
+sp_permission_handler_permission_was_...
+.Companion
+SubSecTimeOriginal
+notInstalled
+range.upper
+getDuration
+GET_SURFACE
+java.util.Map
+/data/misc/profiles/cur/0
+pht110
+dev.flutter.pigeon.camera_android_cam...
+brand
+BOTTOM_OVERLAYS
+BodySerialNumber
+SpectralSensitivity
+setSpeechRate
+setSharedInstance
+dev.flutter.pigeon.camera_android_cam...
+kotlin.Array
+dev.flutter.pigeon.camera_android_cam...
+accept
+camerax.core.camera.useCaseConfigFactory
+CONDITION_FALSE
+device
+ExposureBiasValue
+activity
+V2046
+rw
+V2045
+startStream
+dev.flutter.pigeon.camera_android_cam...
+yyyy:MM:dd
+seek
+SystemUiMode.immersive
+current
+HALF_OPENED
+RESETTING
+audio
+$this$$receiver
+sp
+ImageTextureRegistryEntry
+key
+email
+kotlin.Enum.Companion
+RESOURCE
+dev.flutter.pigeon.camera_android_cam...
+profileinstaller_profileWrittenFor_la...
+VideoConfigUtil
+creditCardExpirationDate
+dev.flutter.pigeon.camera_android_cam...
+obscureText
+GPSAreaInformation
+ExcludedSupportedSizesQuirk
+dev.flutter.pigeon.camera_android_cam...
+android.intent.category.DEFAULT
+WRITE_SKIP_FILE
+kotlin.Float
+GPSMeasureMode
+checkPermissionStatus
+OPEN
+handled
+resizeRight
+SystemNavigator.pop
+voiceDownlink
+compressed
+TextInputAction.newline
+PENDING_RELEASE
+io.flutter.embedding.android.EnableVu...
+_prev
+Preview:
+bus
+loader
+Cuttlefish
+LOOP
+primaryColor
+V2029
+StreamConfigurationMapCompatBaseImpl
+personGivenName
+isRecording
+ImageProcessingUtil
+CamcorderProfileResolutionQuirk
+TOP_OVERLAYS
+Dispatchers.Default
+VidEncVdPrflRslvr
+java.util.Collection
+HIDDEN
+CLOSE_HANDLER_CLOSED
+VideoUsageControl
+postalAddressExtendedPostalCode
+OPENING
+NOT_IN_STACK
+5059X
+TextInputAction.previous
+OffsetTimeOriginal
+speak.onProgress
+amrWb
+removeObserver
+destination
+AudioStreamImpl
+ON_DESTROY
+enableDeltaModel
+AWB
+MOTOG3
+ImageProcessingIFDPointer
+camera2.captureRequest.option.
+audioContext
+RESULT_ALREADY_INSTALLED
+device_name
+m2007j20cg
+flutter/mousecursor
+getTypeMethod
+STF_
+EMPTY
+text/plain
+normal
+Saturation
+flutter/system
+m2007j20ct
+Dispatchers.Main.immediate
+onWindowLayoutChangeListenerRemoved
+location
+m2004j19c
+android.intent.extra.PROCESS_TEXT
+isLanguageInstalled
+GPSProcessingMethod
+physicalRamSize
+location_mode
+none
+type
+CameraPermissionsRequestOngoing
+actionLabel
+TextCapitalization.sentences
+appops
+FocalPlaneResolutionUnit
+HapticFeedbackType.mediumImpact
+cont
+ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+DeviceOrientation.portraitUp
+method
+_display_name
+MAXIMUM
+CONSUMED
+systemNavigationBarContrastEnforced
+PreviewImageLength
+ACTION_ARGUMENT_SELECTION_START_INT
+push
+getSurfaceSize
+SpatialFrequencyResponse
+VideoRecordEventListener.onEvent
+_state
+hasAmplitudeControl
+SHOW_ON_SCREEN
+notifications
+FAIL
+NOT_INITIALIZED
+invokePostCaptureFuture
+android.permission.READ_SMS
+qcom
+java.lang.Double
+flac
+FOCUS
+android.permission.BODY_SENSORS
+binding.binaryMessenger
+range
+dev.flutter.pigeon.camera_android_cam...
+flutter/spellcheck
+addListenerMethod
+dev.flutter.pigeon.camera_android_cam...
+camera2.cameraCaptureSession.streamUs...
+com.android.voicemail.permission.ADD_...
+feature
+getMaxSpeechInputLength
+camerax.core.appConfig.quirksSettings
+get
+dark
+oneTimeCode
+barbet
+power
+copy
+precise
+eglCreateWindowSurface
+java.lang.Number
+StreamSharing
+bramble
+setPlayerMode
+MANUFACTURER
+SystemChrome.setPreferredOrientations
+help
+configAndCloseTask
+phoneNumberDevice
+podcasts
+SyncCaptureSessionImpl
+ShutterSpeedValue
+flutter/deferredcomponent
+elements
+android.settings.REQUEST_IGNORE_BATTE...
+Model
+Huawei
+URI_MASKABLE
+ON_CREATE
+LOWEST
+data
+dev.flutter.pigeon.camera_android_cam...
+OPPO
+sound
+ON_RESUME
+RECORD
+vibrate
+Camera2CameraImpl
+SURFACE_REQUEST_NOT_CONFIGURED
+camerax.core.captureConfig.resolvedFr...
+getWindowExtensionsMethod
+amrNb
+asyncTraceBegin
+TextCapitalization.characters
+packageManager.systemAvailableFeatures
+$1_$2
+JpgFromRaw
+InteroperabilityIFDPointer
+VideoEncoderInfoImpl
+android.permission.ACCESS_COARSE_LOCA...
+android.permission.READ_MEDIA_VISUAL_...
+create
+synth.onError
+NewSubfileType
+VideoCapture
+dev.flutter.pigeon.camera_android_cam...
+dev.flutter.pigeon.camera_android_cam...
+GOOGLE
+tap
+kotlin.jvm.internal.EnumCompanionObject
+mLifecycleCameraRepository.lifecycleC...
+ULTRA_MAXIMUM
+RESULT_UNSUPPORTED_ART_VERSION
+io.flutter.InitialRoute
+dev.flutter.pigeon.camera_android_cam...
+controlState
+transition_animation_scale
+Spreadtrum
+swipeEdge
+dev.flutter.pigeon.camera_android_cam...
+Active
+postalAddress
+kotlin.collections.Iterable
+telephoneNumberDevice
+audio.onPrepared
+files
+relative_path
+send
+CameraSettingsIFDPointer
+mChildNodeIds
+FHD
+kotlin.collections.Map.Entry
+ISOSpeedLatitudeyyy
+android.permission.SYSTEM_ALERT_WINDOW
+GPSSatellites
+GPSDestLatitude
+DateTimeOriginal
+ExposureIndex
+goldfish
+PhotometricInterpretation
+0100
+alarm
+kotlin.collections.Set
+android.intent.action.SEND
+camerax.core.imageAnalysis.imageQueue...
+camerax.core.camera.SessionProcessor
+getWindowLayoutInfo
+player
+playerId
+JPEGInterchangeFormatLength
+java.util.Iterator
+onWindowFocusChanged
+TextInputClient.performAction
+addressState
+Parcelizer
+ON_STOP
+dev.flutter.pigeon.camera_android_cam...
+kotlin.CharSequence
+RESULT_IO_EXCEPTION
+intent
+camerax.core.appConfig.availableCamer...
+personName
+boolean
+getState
+realme
+sunfish
+glActiveTexture
+arguments
+previewSdkInt
+SCROLL_DOWN
+Marking id:locale:2131165242 used because it matches string pool constant locale
+Marking id:topToBottom:2131165271 used because it matches string pool constant top
+Marking id:accessibility_action_clickable_span:2131165184 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_0:2131165185 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_1:2131165186 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_10:2131165187 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_11:2131165188 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_12:2131165189 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_13:2131165190 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_14:2131165191 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_15:2131165192 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_16:2131165193 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_17:2131165194 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_18:2131165195 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_19:2131165196 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_2:2131165197 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_20:2131165198 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_21:2131165199 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_22:2131165200 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_23:2131165201 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_24:2131165202 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_25:2131165203 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_26:2131165204 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_27:2131165205 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_28:2131165206 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_29:2131165207 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_3:2131165208 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_30:2131165209 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_31:2131165210 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_4:2131165211 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_5:2131165212 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_6:2131165213 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_7:2131165214 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_8:2131165215 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_9:2131165216 used because it matches string pool constant accessibility
+Marking attr:shortcutMatchRequired:2130903067 used because it matches string pool constant short
+Marking id:info:2131165238 used because it matches string pool constant info
+Marking id:action_container:2131165217 used because it matches string pool constant action
+Marking id:action_divider:2131165218 used because it matches string pool constant action
+Marking id:action_image:2131165219 used because it matches string pool constant action
+Marking id:action_text:2131165220 used because it matches string pool constant action
+Marking id:actions:2131165221 used because it matches string pool constant action
+Marking id:text:2131165267 used because it matches string pool constant text
+Marking id:text2:2131165268 used because it matches string pool constant text
+Marking id:accessibility_action_clickable_span:2131165184 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_0:2131165185 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_1:2131165186 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_10:2131165187 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_11:2131165188 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_12:2131165189 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_13:2131165190 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_14:2131165191 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_15:2131165192 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_16:2131165193 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_17:2131165194 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_18:2131165195 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_19:2131165196 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_2:2131165197 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_20:2131165198 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_21:2131165199 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_22:2131165200 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_23:2131165201 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_24:2131165202 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_25:2131165203 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_26:2131165204 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_27:2131165205 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_28:2131165206 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_29:2131165207 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_3:2131165208 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_30:2131165209 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_31:2131165210 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_4:2131165211 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_5:2131165212 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_6:2131165213 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_7:2131165214 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_8:2131165215 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_9:2131165216 used because it matches string pool constant acc
+Marking color:call_notification_answer_color:2130968578 used because it matches string pool constant call
+Marking color:call_notification_decline_color:2130968579 used because it matches string pool constant call
+Marking string:call_notification_answer_action:2131427329 used because it matches string pool constant call
+Marking string:call_notification_answer_video_action:2131427330 used because it matches string pool constant call
+Marking string:call_notification_decline_action:2131427331 used because it matches string pool constant call
+Marking string:call_notification_hang_up_action:2131427332 used because it matches string pool constant call
+Marking string:call_notification_incoming_text:2131427333 used because it matches string pool constant call
+Marking string:call_notification_ongoing_text:2131427334 used because it matches string pool constant call
+Marking string:call_notification_screening_text:2131427335 used because it matches string pool constant call
+Marking id:view_tree_lifecycle_owner:2131165272 used because it matches string pool constant view
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131165273 used because it matches string pool constant view
+Marking id:view_tree_saved_state_registry_owner:2131165274 used because it matches string pool constant view
+Marking id:view_tree_view_model_store_owner:2131165275 used because it matches string pool constant view
+Marking color:androidx_core_ripple_material_light:2130968576 used because it matches string pool constant android
+Marking color:androidx_core_secondary_text_default_material_light:2130968577 used because it matches string pool constant android
+Marking id:androidx_window_activity_scope:2131165226 used because it matches string pool constant android
+Marking string:androidx_startup:2131427328 used because it matches string pool constant android
+Marking color:notification_action_color_filter:2130968580 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2130968581 used because it matches string pool constant notification
+Marking dimen:notification_action_icon_size:2131034119 used because it matches string pool constant notification
+Marking dimen:notification_action_text_size:2131034120 used because it matches string pool constant notification
+Marking dimen:notification_big_circle_margin:2131034121 used because it matches string pool constant notification
+Marking dimen:notification_content_margin_start:2131034122 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_height:2131034123 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_width:2131034124 used because it matches string pool constant notification
+Marking dimen:notification_main_column_padding_top:2131034125 used because it matches string pool constant notification
+Marking dimen:notification_media_narrow_margin:2131034126 used because it matches string pool constant notification
+Marking dimen:notification_right_icon_size:2131034127 used because it matches string pool constant notification
+Marking dimen:notification_right_side_padding_top:2131034128 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_background_padding:2131034129 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_size_as_large:2131034130 used because it matches string pool constant notification
+Marking dimen:notification_subtext_size:2131034131 used because it matches string pool constant notification
+Marking dimen:notification_top_pad:2131034132 used because it matches string pool constant notification
+Marking dimen:notification_top_pad_large_text:2131034133 used because it matches string pool constant notification
+Marking drawable:notification_action_background:2131099655 used because it matches string pool constant notification
+Marking drawable:notification_bg:2131099656 used because it matches string pool constant notification
+Marking drawable:notification_bg_low:2131099657 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_normal:2131099658 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_pressed:2131099659 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal:2131099660 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal_pressed:2131099661 used because it matches string pool constant notification
+Marking drawable:notification_icon_background:2131099662 used because it matches string pool constant notification
+Marking drawable:notification_oversize_large_icon_bg:2131099663 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_bg:2131099664 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_low_bg:2131099665 used because it matches string pool constant notification
+Marking drawable:notification_tile_bg:2131099666 used because it matches string pool constant notification
+Marking id:notification_background:2131165246 used because it matches string pool constant notification
+Marking id:notification_main_column:2131165247 used because it matches string pool constant notification
+Marking id:notification_main_column_container:2131165248 used because it matches string pool constant notification
+Marking layout:notification_action:2131296259 used because it matches string pool constant notification
+Marking layout:notification_action_tombstone:2131296260 used because it matches string pool constant notification
+Marking layout:notification_template_custom_big:2131296261 used because it matches string pool constant notification
+Marking layout:notification_template_icon_group:2131296262 used because it matches string pool constant notification
+Marking layout:notification_template_part_chronometer:2131296263 used because it matches string pool constant notification
+Marking layout:notification_template_part_time:2131296264 used because it matches string pool constant notification
+Marking attr:activityAction:2130903040 used because it matches string pool constant activity
+Marking attr:activityName:2130903041 used because it matches string pool constant activity
+Marking id:normal:2131165245 used because it matches string pool constant normal
+@anim/fragment_fast_out_extra_slow_in : reachable=false
+@animator/fragment_close_enter : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@animator/fragment_close_exit : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@animator/fragment_fade_enter : reachable=false
+@animator/fragment_fade_exit : reachable=false
+@animator/fragment_open_enter : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@animator/fragment_open_exit : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@attr/activityAction : reachable=true
+@attr/activityName : reachable=true
+@attr/alpha : reachable=false
+@attr/alwaysExpand : reachable=false
+@attr/animationBackgroundColor : reachable=false
+@attr/clearTop : reachable=false
+@attr/finishPrimaryWithPlaceholder : reachable=false
+@attr/finishPrimaryWithSecondary : reachable=false
+@attr/finishSecondaryWithPrimary : reachable=false
+@attr/font : reachable=false
+@attr/fontProviderAuthority : reachable=false
+@attr/fontProviderCerts : reachable=false
+@attr/fontProviderFetchStrategy : reachable=false
+@attr/fontProviderFetchTimeout : reachable=false
+@attr/fontProviderPackage : reachable=false
+@attr/fontProviderQuery : reachable=false
+@attr/fontProviderSystemFontFamily : reachable=false
+@attr/fontStyle : reachable=false
+@attr/fontVariationSettings : reachable=false
+@attr/fontWeight : reachable=false
+@attr/lStar : reachable=false
+@attr/nestedScrollViewStyle : reachable=false
+@attr/placeholderActivityName : reachable=false
+@attr/primaryActivityName : reachable=false
+@attr/queryPatterns : reachable=false
+@attr/secondaryActivityAction : reachable=false
+@attr/secondaryActivityName : reachable=false
+@attr/shortcutMatchRequired : reachable=true
+@attr/splitLayoutDirection : reachable=false
+@attr/splitMaxAspectRatioInLandscape : reachable=false
+@attr/splitMaxAspectRatioInPortrait : reachable=false
+@attr/splitMinHeightDp : reachable=false
+@attr/splitMinSmallestWidthDp : reachable=false
+@attr/splitMinWidthDp : reachable=false
+@attr/splitRatio : reachable=false
+@attr/stickyPlaceholder : reachable=false
+@attr/tag : reachable=false
+@attr/ttcIndex : reachable=false
+@color/androidx_core_ripple_material_light : reachable=true
+@color/androidx_core_secondary_text_default_material_light : reachable=true
+@color/call_notification_answer_color : reachable=true
+@color/call_notification_decline_color : reachable=true
+@color/notification_action_color_filter : reachable=true
+    @color/androidx_core_secondary_text_default_material_light
+@color/notification_icon_bg_color : reachable=true
+@dimen/compat_button_inset_horizontal_material : reachable=false
+@dimen/compat_button_inset_vertical_material : reachable=false
+@dimen/compat_button_padding_horizontal_material : reachable=false
+@dimen/compat_button_padding_vertical_material : reachable=false
+@dimen/compat_control_corner_material : reachable=false
+@dimen/compat_notification_large_icon_max_height : reachable=false
+@dimen/compat_notification_large_icon_max_width : reachable=false
+@dimen/notification_action_icon_size : reachable=true
+@dimen/notification_action_text_size : reachable=true
+@dimen/notification_big_circle_margin : reachable=true
+@dimen/notification_content_margin_start : reachable=true
+@dimen/notification_large_icon_height : reachable=true
+@dimen/notification_large_icon_width : reachable=true
+@dimen/notification_main_column_padding_top : reachable=true
+@dimen/notification_media_narrow_margin : reachable=true
+@dimen/notification_right_icon_size : reachable=true
+@dimen/notification_right_side_padding_top : reachable=true
+@dimen/notification_small_icon_background_padding : reachable=true
+@dimen/notification_small_icon_size_as_large : reachable=true
+@dimen/notification_subtext_size : reachable=true
+@dimen/notification_top_pad : reachable=true
+@dimen/notification_top_pad_large_text : reachable=true
+@drawable/ic_call_answer : reachable=false
+@drawable/ic_call_answer_low : reachable=false
+@drawable/ic_call_answer_video : reachable=false
+@drawable/ic_call_answer_video_low : reachable=false
+@drawable/ic_call_decline : reachable=false
+@drawable/ic_call_decline_low : reachable=false
+@drawable/launch_background : reachable=false
+@drawable/notification_action_background : reachable=true
+    @color/androidx_core_ripple_material_light
+    @dimen/compat_button_inset_horizontal_material
+    @dimen/compat_button_inset_vertical_material
+    @dimen/compat_control_corner_material
+    @dimen/compat_button_padding_horizontal_material
+    @dimen/compat_button_padding_vertical_material
+@drawable/notification_bg : reachable=true
+    @drawable/notification_bg_normal_pressed
+    @drawable/notification_bg_normal
+@drawable/notification_bg_low : reachable=true
+    @drawable/notification_bg_low_pressed
+    @drawable/notification_bg_low_normal
+@drawable/notification_bg_low_normal : reachable=true
+@drawable/notification_bg_low_pressed : reachable=true
+@drawable/notification_bg_normal : reachable=true
+@drawable/notification_bg_normal_pressed : reachable=true
+@drawable/notification_icon_background : reachable=true
+    @color/notification_icon_bg_color
+@drawable/notification_oversize_large_icon_bg : reachable=true
+@drawable/notification_template_icon_bg : reachable=true
+@drawable/notification_template_icon_low_bg : reachable=true
+@drawable/notification_tile_bg : reachable=true
+    @drawable/notify_panel_notification_icon_bg
+@drawable/notify_panel_notification_icon_bg : reachable=false
+@id/accessibility_action_clickable_span : reachable=true
+@id/accessibility_custom_action_0 : reachable=true
+@id/accessibility_custom_action_1 : reachable=true
+@id/accessibility_custom_action_10 : reachable=true
+@id/accessibility_custom_action_11 : reachable=true
+@id/accessibility_custom_action_12 : reachable=true
+@id/accessibility_custom_action_13 : reachable=true
+@id/accessibility_custom_action_14 : reachable=true
+@id/accessibility_custom_action_15 : reachable=true
+@id/accessibility_custom_action_16 : reachable=true
+@id/accessibility_custom_action_17 : reachable=true
+@id/accessibility_custom_action_18 : reachable=true
+@id/accessibility_custom_action_19 : reachable=true
+@id/accessibility_custom_action_2 : reachable=true
+@id/accessibility_custom_action_20 : reachable=true
+@id/accessibility_custom_action_21 : reachable=true
+@id/accessibility_custom_action_22 : reachable=true
+@id/accessibility_custom_action_23 : reachable=true
+@id/accessibility_custom_action_24 : reachable=true
+@id/accessibility_custom_action_25 : reachable=true
+@id/accessibility_custom_action_26 : reachable=true
+@id/accessibility_custom_action_27 : reachable=true
+@id/accessibility_custom_action_28 : reachable=true
+@id/accessibility_custom_action_29 : reachable=true
+@id/accessibility_custom_action_3 : reachable=true
+@id/accessibility_custom_action_30 : reachable=true
+@id/accessibility_custom_action_31 : reachable=true
+@id/accessibility_custom_action_4 : reachable=true
+@id/accessibility_custom_action_5 : reachable=true
+@id/accessibility_custom_action_6 : reachable=true
+@id/accessibility_custom_action_7 : reachable=true
+@id/accessibility_custom_action_8 : reachable=true
+@id/accessibility_custom_action_9 : reachable=true
+@id/action_container : reachable=true
+@id/action_divider : reachable=true
+@id/action_image : reachable=true
+@id/action_text : reachable=true
+@id/actions : reachable=true
+@id/adjacent : reachable=false
+@id/always : reachable=false
+@id/alwaysAllow : reachable=false
+@id/alwaysDisallow : reachable=false
+@id/androidx_window_activity_scope : reachable=true
+@id/async : reachable=false
+@id/blocking : reachable=false
+@id/bottomToTop : reachable=false
+@id/chronometer : reachable=false
+@id/dialog_button : reachable=false
+@id/edit_text_id : reachable=false
+@id/forever : reachable=false
+@id/fragment_container_view_tag : reachable=false
+@id/hide_ime_id : reachable=false
+@id/icon : reachable=false
+@id/icon_group : reachable=false
+@id/info : reachable=true
+@id/italic : reachable=false
+@id/line1 : reachable=false
+@id/line3 : reachable=false
+@id/locale : reachable=true
+@id/ltr : reachable=false
+@id/never : reachable=false
+@id/normal : reachable=true
+@id/notification_background : reachable=true
+@id/notification_main_column : reachable=true
+@id/notification_main_column_container : reachable=true
+@id/report_drawn : reachable=false
+@id/right_icon : reachable=false
+@id/right_side : reachable=false
+@id/rtl : reachable=false
+@id/special_effects_controller_view_tag : reachable=false
+@id/tag_accessibility_actions : reachable=false
+@id/tag_accessibility_clickable_spans : reachable=false
+@id/tag_accessibility_heading : reachable=false
+@id/tag_accessibility_pane_title : reachable=false
+@id/tag_on_apply_window_listener : reachable=false
+@id/tag_on_receive_content_listener : reachable=false
+@id/tag_on_receive_content_mime_types : reachable=false
+@id/tag_screen_reader_focusable : reachable=false
+@id/tag_state_description : reachable=false
+@id/tag_transition_group : reachable=false
+@id/tag_unhandled_key_event_manager : reachable=false
+@id/tag_unhandled_key_listeners : reachable=false
+@id/tag_window_insets_animation_callback : reachable=false
+@id/text : reachable=true
+@id/text2 : reachable=true
+@id/time : reachable=false
+@id/title : reachable=false
+@id/topToBottom : reachable=true
+@id/view_tree_lifecycle_owner : reachable=true
+@id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@id/view_tree_saved_state_registry_owner : reachable=true
+@id/view_tree_view_model_store_owner : reachable=true
+@id/visible_removing_fragment_view_tag : reachable=false
+@integer/status_bar_notification_info_maxnum : reachable=false
+@layout/custom_dialog : reachable=false
+@layout/ime_base_split_test_activity : reachable=false
+@layout/ime_secondary_split_test_activity : reachable=false
+@layout/notification_action : reachable=true
+    @style/Widget_Compat_NotificationActionContainer
+    @dimen/notification_action_icon_size
+    @style/Widget_Compat_NotificationActionText
+@layout/notification_action_tombstone : reachable=true
+    @style/Widget_Compat_NotificationActionContainer
+    @dimen/notification_action_icon_size
+    @style/Widget_Compat_NotificationActionText
+@layout/notification_template_custom_big : reachable=true
+    @dimen/notification_large_icon_width
+    @dimen/notification_large_icon_height
+    @layout/notification_template_icon_group
+    @dimen/notification_right_side_padding_top
+    @layout/notification_template_part_time
+    @layout/notification_template_part_chronometer
+    @style/TextAppearance_Compat_Notification_Info
+@layout/notification_template_icon_group : reachable=true
+    @dimen/notification_large_icon_width
+    @dimen/notification_large_icon_height
+    @dimen/notification_big_circle_margin
+    @dimen/notification_right_icon_size
+@layout/notification_template_part_chronometer : reachable=true
+    @style/TextAppearance_Compat_Notification_Time
+@layout/notification_template_part_time : reachable=true
+    @style/TextAppearance_Compat_Notification_Time
+@mipmap/ic_launcher : reachable=true
+@string/androidx_startup : reachable=true
+@string/call_notification_answer_action : reachable=true
+@string/call_notification_answer_video_action : reachable=true
+@string/call_notification_decline_action : reachable=true
+@string/call_notification_hang_up_action : reachable=true
+@string/call_notification_incoming_text : reachable=true
+@string/call_notification_ongoing_text : reachable=true
+@string/call_notification_screening_text : reachable=true
+@string/status_bar_notification_info_overflow : reachable=false
+@style/LaunchTheme : reachable=true
+    @drawable/launch_background
+@style/NormalTheme : reachable=true
+@style/TextAppearance_Compat_Notification : reachable=false
+@style/TextAppearance_Compat_Notification_Info : reachable=false
+@style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @style/TextAppearance_Compat_Notification_Info
+@style/TextAppearance_Compat_Notification_Time : reachable=false
+@style/TextAppearance_Compat_Notification_Title : reachable=false
+@style/Widget_Compat_NotificationActionContainer : reachable=false
+    @drawable/notification_action_background
+@style/Widget_Compat_NotificationActionText : reachable=false
+    @dimen/notification_action_text_size
+    @color/androidx_core_secondary_text_default_material_light
+
+The root reachable resources are:
+ attr:activityAction:2130903040
+ attr:activityName:2130903041
+ attr:shortcutMatchRequired:2130903067
+ color:androidx_core_ripple_material_light:2130968576
+ color:androidx_core_secondary_text_default_material_light:2130968577
+ color:call_notification_answer_color:2130968578
+ color:call_notification_decline_color:2130968579
+ color:notification_action_color_filter:2130968580
+ color:notification_icon_bg_color:2130968581
+ dimen:notification_action_icon_size:2131034119
+ dimen:notification_action_text_size:2131034120
+ dimen:notification_big_circle_margin:2131034121
+ dimen:notification_content_margin_start:2131034122
+ dimen:notification_large_icon_height:2131034123
+ dimen:notification_large_icon_width:2131034124
+ dimen:notification_main_column_padding_top:2131034125
+ dimen:notification_media_narrow_margin:2131034126
+ dimen:notification_right_icon_size:2131034127
+ dimen:notification_right_side_padding_top:2131034128
+ dimen:notification_small_icon_background_padding:2131034129
+ dimen:notification_small_icon_size_as_large:2131034130
+ dimen:notification_subtext_size:2131034131
+ dimen:notification_top_pad:2131034132
+ dimen:notification_top_pad_large_text:2131034133
+ drawable:notification_action_background:2131099655
+ drawable:notification_bg:2131099656
+ drawable:notification_bg_low:2131099657
+ drawable:notification_bg_low_normal:2131099658
+ drawable:notification_bg_low_pressed:2131099659
+ drawable:notification_bg_normal:2131099660
+ drawable:notification_bg_normal_pressed:2131099661
+ drawable:notification_icon_background:2131099662
+ drawable:notification_oversize_large_icon_bg:2131099663
+ drawable:notification_template_icon_bg:2131099664
+ drawable:notification_template_icon_low_bg:2131099665
+ drawable:notification_tile_bg:2131099666
+ id:accessibility_action_clickable_span:2131165184
+ id:accessibility_custom_action_0:2131165185
+ id:accessibility_custom_action_1:2131165186
+ id:accessibility_custom_action_10:2131165187
+ id:accessibility_custom_action_11:2131165188
+ id:accessibility_custom_action_12:2131165189
+ id:accessibility_custom_action_13:2131165190
+ id:accessibility_custom_action_14:2131165191
+ id:accessibility_custom_action_15:2131165192
+ id:accessibility_custom_action_16:2131165193
+ id:accessibility_custom_action_17:2131165194
+ id:accessibility_custom_action_18:2131165195
+ id:accessibility_custom_action_19:2131165196
+ id:accessibility_custom_action_2:2131165197
+ id:accessibility_custom_action_20:2131165198
+ id:accessibility_custom_action_21:2131165199
+ id:accessibility_custom_action_22:2131165200
+ id:accessibility_custom_action_23:2131165201
+ id:accessibility_custom_action_24:2131165202
+ id:accessibility_custom_action_25:2131165203
+ id:accessibility_custom_action_26:2131165204
+ id:accessibility_custom_action_27:2131165205
+ id:accessibility_custom_action_28:2131165206
+ id:accessibility_custom_action_29:2131165207
+ id:accessibility_custom_action_3:2131165208
+ id:accessibility_custom_action_30:2131165209
+ id:accessibility_custom_action_31:2131165210
+ id:accessibility_custom_action_4:2131165211
+ id:accessibility_custom_action_5:2131165212
+ id:accessibility_custom_action_6:2131165213
+ id:accessibility_custom_action_7:2131165214
+ id:accessibility_custom_action_8:2131165215
+ id:accessibility_custom_action_9:2131165216
+ id:action_container:2131165217
+ id:action_divider:2131165218
+ id:action_image:2131165219
+ id:action_text:2131165220
+ id:actions:2131165221
+ id:androidx_window_activity_scope:2131165226
+ id:info:2131165238
+ id:locale:2131165242
+ id:normal:2131165245
+ id:notification_background:2131165246
+ id:notification_main_column:2131165247
+ id:notification_main_column_container:2131165248
+ id:text:2131165267
+ id:text2:2131165268
+ id:topToBottom:2131165271
+ id:view_tree_lifecycle_owner:2131165272
+ id:view_tree_on_back_pressed_dispatcher_owner:2131165273
+ id:view_tree_saved_state_registry_owner:2131165274
+ id:view_tree_view_model_store_owner:2131165275
+ layout:notification_action:2131296259
+ layout:notification_action_tombstone:2131296260
+ layout:notification_template_custom_big:2131296261
+ layout:notification_template_icon_group:2131296262
+ layout:notification_template_part_chronometer:2131296263
+ layout:notification_template_part_time:2131296264
+ mipmap:ic_launcher:2131361792
+ string:androidx_startup:2131427328
+ string:call_notification_answer_action:2131427329
+ string:call_notification_answer_video_action:2131427330
+ string:call_notification_decline_action:2131427331
+ string:call_notification_hang_up_action:2131427332
+ string:call_notification_incoming_text:2131427333
+ string:call_notification_ongoing_text:2131427334
+ string:call_notification_screening_text:2131427335
+ style:LaunchTheme:2131492864
+ style:NormalTheme:2131492865
+Unused resources are: 
+ anim:fragment_fast_out_extra_slow_in:2130771968
+ animator:fragment_close_enter:2130837504
+ animator:fragment_close_exit:2130837505
+ animator:fragment_fade_enter:2130837506
+ animator:fragment_fade_exit:2130837507
+ animator:fragment_open_enter:2130837508
+ animator:fragment_open_exit:2130837509
+ dimen:compat_notification_large_icon_max_height:2131034117
+ dimen:compat_notification_large_icon_max_width:2131034118
+ drawable:ic_call_answer:2131099648
+ drawable:ic_call_answer_low:2131099649
+ drawable:ic_call_answer_video:2131099650
+ drawable:ic_call_answer_video_low:2131099651
+ drawable:ic_call_decline:2131099652
+ drawable:ic_call_decline_low:2131099653
+ id:adjacent:2131165222
+ id:always:2131165223
+ id:alwaysAllow:2131165224
+ id:alwaysDisallow:2131165225
+ id:async:2131165227
+ id:blocking:2131165228
+ id:bottomToTop:2131165229
+ id:chronometer:2131165230
+ id:dialog_button:2131165231
+ id:edit_text_id:2131165232
+ id:forever:2131165233
+ id:fragment_container_view_tag:2131165234
+ id:hide_ime_id:2131165235
+ id:icon:2131165236
+ id:icon_group:2131165237
+ id:italic:2131165239
+ id:line1:2131165240
+ id:line3:2131165241
+ id:ltr:2131165243
+ id:never:2131165244
+ id:report_drawn:2131165249
+ id:right_icon:2131165250
+ id:right_side:2131165251
+ id:rtl:2131165252
+ id:special_effects_controller_view_tag:2131165253
+ id:tag_accessibility_actions:2131165254
+ id:tag_accessibility_clickable_spans:2131165255
+ id:tag_accessibility_heading:2131165256
+ id:tag_accessibility_pane_title:2131165257
+ id:tag_on_apply_window_listener:2131165258
+ id:tag_on_receive_content_listener:2131165259
+ id:tag_on_receive_content_mime_types:2131165260
+ id:tag_screen_reader_focusable:2131165261
+ id:tag_state_description:2131165262
+ id:tag_transition_group:2131165263
+ id:tag_unhandled_key_event_manager:2131165264
+ id:tag_unhandled_key_listeners:2131165265
+ id:tag_window_insets_animation_callback:2131165266
+ id:time:2131165269
+ id:title:2131165270
+ id:visible_removing_fragment_view_tag:2131165276
+ integer:status_bar_notification_info_maxnum:2131230720
+ layout:custom_dialog:2131296256
+ layout:ime_base_split_test_activity:2131296257
+ layout:ime_secondary_split_test_activity:2131296258
+ string:status_bar_notification_info_overflow:2131427336
+ style:TextAppearance_Compat_Notification:2131492866
+ style:TextAppearance_Compat_Notification_Line2:2131492868
+ style:TextAppearance_Compat_Notification_Title:2131492870

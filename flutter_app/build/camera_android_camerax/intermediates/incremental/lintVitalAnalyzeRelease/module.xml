@@ -1,0 +1,37 @@
+<lint-module
+    format="1"
+    dir="C:\Users\maddi\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android_camerax-0.6.15+2\android"
+    name=":camera_android_camerax"
+    type="LIBRARY"
+    maven="io.flutter.plugins.camerax:camera_android_camerax:1.0"
+    agpVersion="8.7.0"
+    buildFolder="C:\Users\maddi\StudioProjects\navig_aid\build\camera_android_camerax"
+    bootClassPath="C:\Users\maddi\AppData\Local\Android\sdk\platforms\android-35\android.jar;C:\Users\maddi\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      disable="AndroidGradlePluginVersion,GradleDependency,InvalidPackage,NewerVersionAvailable"
+      abortOnError="true"
+      absolutePaths="true"
+      checkAllWarnings="true"
+      warningsAsErrors="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="AndroidGradlePluginVersion"
+        severity="IGNORE" />
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+      <severity
+        id="NewerVersionAvailable"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
