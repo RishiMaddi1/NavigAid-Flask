@@ -1,21 +1,20 @@
 from flask import Flask, request, jsonify, Response
 import cloudinary.uploader
+from huggingface_hub import InferenceClient
+import re
 import tempfile
 import requests
 import re
-import io
-import pyttsx3
-import os
 
 # Cloudinary configuration
 CLOUDINARY_API_KEY = "532718876252765"
 CLOUDINARY_API_SECRET = "8xIh7tTVV_VsW_996YltNBdEG8Q"
 CLOUDINARY_CLOUD_NAME = "du54acioe"
 
-# Groq API Key
-groq_api_key = "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"
+# HuggingFace Inference Client
 
-# Upload image to Cloudinary
+
+
 def upload_image_to_cloudinary(file_path):
     upload_result = cloudinary.uploader.upload(
         file_path,
@@ -27,18 +26,24 @@ def upload_image_to_cloudinary(file_path):
     )
     return upload_result["secure_url"]
 
-# Generate context from image using Groq
+
 def generate_image_context_grok(
     image_url: str,
+    groq_api_key: str = "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",
     model: str = "meta-llama/llama-4-scout-17b-16e-instruct",
     temperature: float = 1.0,
     max_completion_tokens: int = 1024,
 ) -> str:
+    """
+    Calls Groq Cloud's OpenAI-compatible vision chat endpoint to analyze an image URL.
+    Uses Llama 4 Scout (multimodal) by default and returns the text analysis.
+    """
     headers = {
         "Authorization": f"Bearer {groq_api_key}",
         "Content-Type": "application/json",
     }
 
+    # Groq Vision expects content to be a list of {type, text} and {type, image_url}
     messages = [
         {
             "role": "user",
@@ -74,6 +79,7 @@ def generate_image_context_grok(
         json=payload,
     )
 
+    # Debug on error
     if resp.status_code != 200:
         print("=== Groq API Error ===")
         print("Status code:", resp.status_code)
@@ -91,13 +97,15 @@ def generate_image_context_grok(
 
     return context
 
-# Answer user question based on context
+
 def answer_user_question(context, user_question):
     prompt = (
         f"Context:\n{context}\n\n"
         f"Question:\n{user_question}\n\n"
         "Please provide a conversational answer and be friendly. Do not include any additional commentary, explanations, or headings."
     )
+    import requests
+    groq_api_key = "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"
     headers = {
         "Authorization": f"Bearer {groq_api_key}",
         "Content-Type": "application/json",
@@ -117,12 +125,19 @@ def answer_user_question(context, user_question):
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"].strip()
 
-# Translate audio to English text
+
+# … if you already have a groq_api_key defined for vision, you can reuse it:
+groq_api_key = "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"
+
+
 def translate_audio(
     audio_file_path: str,
     model: str = "whisper-large-v3",
     response_format: str = "text",
 ) -> str:
+    """
+    Calls Groq’s translation endpoint to turn speech (any language) into English text.
+    """
     with open(audio_file_path, "rb") as f:
         files = {"file": f}
         data = {
@@ -130,7 +145,7 @@ def translate_audio(
             "response_format": response_format,
             "temperature": 0.0,
             "language": "en",
-        }
+        }   
         headers = {"Authorization": f"Bearer {groq_api_key}"}
 
         resp = requests.post(
@@ -142,50 +157,56 @@ def translate_audio(
         resp.raise_for_status()
         return resp.text.strip()
 
-# Text-to-Speech using pyttsx3 (offline)
+
 def text_to_speech(
     text: str,
-    response_format: str = "mp3",
+    model: str = "playai-tts",
+    voice: str = "Mitch-PlayAI",
+    response_format: str = "wav",
 ) -> bytes:
     """
-    Converts text to speech using pyttsx3 and returns MP3 bytes.
+    Calls Groq’s text-to-speech endpoint and returns raw audio bytes (WAV by default).
+    If there’s an HTTP error, prints the status and body for debugging.
     """
-    engine = pyttsx3.init()
-    engine.setProperty('rate', 150)  # Speed
-    engine.setProperty('volume', 1)  # Max volume
+    headers = {
+        "Authorization": f"Bearer {groq_api_key}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": model,
+        "voice": voice,
+        "input": text,
+        "response_format": response_format,
+    }
 
-    # Save to temporary WAV file
-    temp_wav = tempfile.NamedTemporaryFile(delete=False, suffix='.wav')
-    temp_wav_path = temp_wav.name
-    temp_wav.close()
-    engine.save_to_file(text, temp_wav_path)
-    engine.runAndWait()
+    resp = requests.post(
+        "https://api.groq.com/openai/v1/audio/speech",
+        headers=headers,
+        json=payload,
+    )
 
-    # Convert WAV to MP3 if needed
-    from pydub import AudioSegment  # Requires pip install pydub
-    audio = AudioSegment.from_wav(temp_wav_path)
-    mp3_io = io.BytesIO()
-    audio.export(mp3_io, format="mp3")
-    mp3_io.seek(0)
+    if resp.status_code != 200:
+        # dump the returned JSON or text so we can see the error message
+        try:
+            print("TTS error response JSON:", resp.json())
+        except Exception:
+            print("TTS error response text:", resp.text)
+        resp.raise_for_status()
 
-    # Cleanup temp wav
-    os.remove(temp_wav_path)
+    return resp.content
 
-    return mp3_io.read()
 
-# Flask App
-app = Flask(__name__)
+app = Flask(_name_)
 
-@app.route("/")
-def home():
-    return "Welcome to NavigAid!"
 
 @app.route("/analyze_image", methods=["POST"])
 def analyze_image():
+    # 1) receive an image file
     if "image" not in request.files:
         return jsonify({"error": "No image file provided"}), 400
     img = request.files["image"]
 
+    # 2) save to temp and upload
     with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmp:
         img.save(tmp.name)
         local_path = tmp.name
@@ -193,29 +214,47 @@ def analyze_image():
     image_url = upload_image_to_cloudinary(local_path)
     context = generate_image_context_grok(image_url)
 
+    # 3) return the vision context
     return jsonify({"context": context})
 
+@app.route("/")
+def home():
+    return "Welcome to NavigAid!"
+    
 @app.route("/ask_question", methods=["POST"])
 def ask_question():
+    # 1) get the image context from the client
+    
     context = request.form.get("context")
     if not context:
         return jsonify({"error": "No context provided"}), 400
 
+    # 2) receive audio file
     if "audio" not in request.files:
         return jsonify({"error": "No audio file provided"}), 400
     audio = request.files["audio"]
 
+    # 3) save to temp and translate
     with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
         audio.save(tmp.name)
         audio_path = tmp.name
 
     translated_question = translate_audio(audio_path)
+
+    # 4) ask your vision QA model
     final_answer = answer_user_question(context, translated_question)
 
-    # Generate MP3 of the answer
-    mp3_bytes = text_to_speech(final_answer)
+    # 5) render answer as speech
+    mp3_bytes = text_to_speech(
+        final_answer,
+        model="playai-tts",
+        voice="Mitch-PlayAI",
+        response_format="mp3"
+    )
 
+    # 6) return raw WAV data
     return Response(mp3_bytes, mimetype="audio/mpeg")
 
-if __name__ == "__main__":
+
+if _name_ == "_main_":
     app.run(host="0.0.0.0", port=5000, debug=True)
